@@ -15,7 +15,7 @@ LIMIT 10;
 
 rows = cursor.fetchall()
 
-with open('first.csv', 'w', newline='') as csvfile:
+with open('data/first.csv', 'w', newline='') as csvfile:
     csvwriter = csv.writer(csvfile)
     csvwriter.writerow(['name', 'price', 'ratingAVG', 'ratingCOUNT'])
     csvwriter.writerows(rows)

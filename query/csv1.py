@@ -8,9 +8,8 @@ cursor = conn.cursor()
 cursor.execute("""
 SELECT name, price_euros, ratings_average, ratings_count
 FROM vintages
-WHERE ratings_average >= 4.5
-ORDER BY price_euros ASC, ratings_count DESC
-LIMIT 10;
+ORDER BY price_euros ASC, ratings_average DESC
+LIMIT 12;
 """)
 
 rows = cursor.fetchall()

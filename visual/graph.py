@@ -10,7 +10,7 @@ print(df)
 #create a bar plot with the data
 fig = go.Figure(data=[
     go.Bar(name='Price', x=df['name'], y=df['price']),
-    go.Bar(name='Rating AVG', x=df['name'], y=df['ratingAVG'])
+    go.Line(name='Rating AVG', x=df['name'], y=df['ratingAVG'])
 ])
 fig.show()
 

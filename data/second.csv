@@ -1,18 +1,18 @@
-priceAVG,countries
-88.0,Afrique du Sud
-282.0,Allemagne
-111.0,Argentine
-495.0,Australie
-130.0,Chili
-35.0,Croatie
-282.0,Espagne
-1025.0,France
-124.0,Grèce
-107.0,Hongrie
-37.0,Israël
-476.0,Italie
-43.0,Moldavie
-162.0,Portugal
-36.0,Roumanie
-123.0,Suisse
-300.0,États-Unis
+country,priceAVG,rantingAVG
+Afrique du Sud,88.0,4.5
+Allemagne,282.0,0.0
+Argentine,111.0,4.4
+Australie,495.0,4.7
+Chili,130.0,4.5
+Croatie,35.0,4.4
+Espagne,282.0,4.5
+France,1025.0,4.5
+Grèce,124.0,4.6
+Hongrie,107.0,4.6
+Israël,37.0,0.0
+Italie,476.0,4.4
+Moldavie,43.0,4.5
+Portugal,162.0,4.5
+Roumanie,36.0,4.5
+Suisse,123.0,4.4
+États-Unis,300.0,4.6

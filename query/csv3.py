@@ -20,5 +20,3 @@ with open('data/tiensconnard.csv', 'w', newline='') as csvfile:
     csvwriter.writerows(rows)  
 
 cursor = conn.cursor()
-
-# vin prix pays ratingAVG

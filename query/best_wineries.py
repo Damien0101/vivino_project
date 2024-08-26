@@ -5,8 +5,9 @@ conn = sqlite3.connect('data/vivino.db')
 cursor = conn.cursor()
 
 cursor.execute("""     
-    SELECT wines.name, ratings_count, ratings_average
+    SELECT wines.name, ratings_count, avg(ratings_average)
     FROM wines
+    GROUP BY name.ratings_average
     ORDER BY ratings_count DESC
     LIMIT 3;
 """)

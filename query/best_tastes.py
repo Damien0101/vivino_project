@@ -3,11 +3,10 @@ import pandas as pd
 import csv
 
 
-# Create a connection and get a cursor
 con = sqlite3.connect('data/vivino.db')
 cur = con.cursor()
 
-query_tasty = f'''
+cur.execute('''
 SELECT 
     keywords.name AS taste,
     keywords_wine.count AS keyword_count,
@@ -21,11 +20,16 @@ JOIN
 JOIN 
     keywords ON keywords.id =keywords_wine.keyword_id
 WHERE 
-    keywords_wine.count > 10,
-    taste LIKE 'coffee', 'toast', 'green apple', 'cream', 'citrus';
-'''
+    keywords_wine.count > 10 AND 
+    keywords.name IN ('coffee', 'toast', 'green apple', 'cream', 'citrus');
+''')
 
 row = cur.fetchall()
+<<<<<<< HEAD
+=======
+print(row)
+
+>>>>>>> 6f6019b65e2c52151f9e0369e593af49686f94e6
 with open('data/best_taste.csv', 'w', newline='') as file:
     csvfile = csv.writer(file)
     csvfile.writerow(['taste', 'keyword_count', 'wine', 'ratingAVG', 'ratingCOUNT'])

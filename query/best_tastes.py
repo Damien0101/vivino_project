@@ -26,10 +26,9 @@ WHERE
 '''
 
 row = cur.fetchall()
-
 with open('data/best_taste.csv', 'w', newline='') as file:
-    csvfile = csv.write(file)
-    csvfile.writerow('taste', 'keyword_count', 'wine', 'ratingAVG', 'ratingCOUNT')
+    csvfile = csv.writer(file)
+    csvfile.writerow(['taste', 'keyword_count', 'wine', 'ratingAVG', 'ratingCOUNT'])
     csvfile.writerows(row)
 
 

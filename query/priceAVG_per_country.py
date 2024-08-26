@@ -4,7 +4,6 @@ import csv
 conn = sqlite3.connect('data/vivino.db')
 cursor = conn.cursor()
 
-# avg wine price per country
 
 cursor.execute("""
     SELECT countries.name, round(avg(vintages.price_euros)), vintages.ratings_average
@@ -17,7 +16,7 @@ cursor.execute("""
 
 rows = cursor.fetchall()
 
-with open('data/second.csv', 'w', newline='') as csvfile:
+with open('data/priceAVG_per_country.csv', 'w', newline='') as csvfile:
     csvwriter = csv.writer(csvfile)
     csvwriter.writerow(['country', 'priceAVG', 'rantingAVG']) 
     csvwriter.writerows(rows)  

@@ -14,7 +14,7 @@ cursor.execute("""
 
 rows = cursor.fetchall()
 
-with open('data/tiensconnard.csv', 'w', newline='') as csvfile:
+with open('data/best_countries.csv', 'w', newline='') as csvfile:
     csvwriter = csv.writer(csvfile)
     csvwriter.writerow(['wine', 'price', 'country', 'rating']) 
     csvwriter.writerows(rows)  

@@ -3,7 +3,6 @@ import csv
 
 conn = sqlite3.connect('data/vivino.db')
 cursor = conn.cursor()
-# avg wine price per country
 
 cursor.execute("""
     SELECT wines.name, vintages.price_euros, countries.name, wines.ratings_average

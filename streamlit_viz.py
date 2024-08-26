@@ -1,6 +1,11 @@
+import streamlit as st
+
 import plotly.express as px 
 import plotly.graph_objects as go
 import pandas as pd
+
+
+
 
 # Load the dataframe from the csv file with specified encoding
 df = pd.read_csv('data/first.csv', encoding='latin1')
@@ -34,5 +39,11 @@ fig.update_layout(
     )
 
 
-fig.show()
 
+st.title("🍷 Vivino Project 🍷")
+st.subheader("Top 10 best affordables Wines with best rating")
+
+
+if st.button("Show plot"):
+    st.plotly_chart(fig)
+    

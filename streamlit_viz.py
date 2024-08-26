@@ -74,6 +74,8 @@ st.subheader("Top 10 best affordables Wines with best rating")
 
 if st.button("Show plot", key='show_plot'):
     st.plotly_chart(fig)
-if st.button("Show second plot", key='show_plot2'):
+st.subheader("Median price and rating per country")
+if st.button("Show plot", key='show_plot2'):
     st.subheader("Median price and rating per country")
     st.plotly_chart(fig2)
+    st.write("Based on this plot, we can tell that for our little budget we should go for Israel since it's cheap and as a rating average above the median.")

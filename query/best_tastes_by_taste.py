@@ -7,8 +7,8 @@ cur = con.cursor()
 cur.execute('''
 SELECT 
     keywords.name AS taste,
-    keywords_wine.count AS keyword_count,
-    wines.name AS wine,
+    SUM(keywords_wine.count) AS total_keyword_count,
+    COUNT (DISTINCT wines.name) AS distinct_wine,
     ROUND(AVG(wines.ratings_average),1) AS avg_by_taste,
     SUM(wines.ratings_count) AS total_ratings
 FROM 

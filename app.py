@@ -29,7 +29,13 @@ tastiest_wines.drop(columns=['taste','keyword_count'], inplace=True)
 tastiest_wines.set_index('wine', inplace=True)
 tastiest_wines.sort_values('ratingAVG', ascending=False, inplace=True)
 
+df4 = pd.read_csv('data/cabernet.csv', encoding='latin1')
+df4.sort_values(['ratingAVG','ratingCOUNT'], ascending=False, inplace=True)
+fig3 = px.bar(df4.head(5), x='name', y='ratingAVG', color='price', title='Top 5 Cabernet Sauvignon wines by rating')
 
+df5 = pd.read_csv('data/priceAVG_per_country.csv', encoding='latin1')
+df5.sort_values('rantingAVG', ascending=False, inplace=True)
+fig4 = px.bar(df5, x='country', y='rantingAVG', color='priceAVG', title='Average price of wine per country')
 
 
 # Streamlit app layout
@@ -45,3 +51,11 @@ if st.button("Show plot", key='show_plot2'):
 st.subheader("Wines with the best taste")
 if st.button("Show table"):
     st.table(tastiest_wines)
+st.subheader("Average price of wine per country")
+if st.button("Show plot", key='show_plot4'):
+    st.plotly_chart(fig4)
+    st.write("Based on this plot we can tell that the best wine are from Australia, USA and Greece. We can also tell that French wines are not that expensive compared to their rating")
+st.subheader("Top 5 Cabernet Sauvignon wines by rating")
+if st.button("Show plot", key='show_plot3'):
+    st.plotly_chart(fig3)
+    st.write("Here's our top 5 recommandation for Cabernet Sauvignon wines based on their rating and price")

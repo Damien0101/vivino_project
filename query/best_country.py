@@ -19,4 +19,6 @@ with open('data/best_countries.csv', 'w', newline='') as csvfile:
     csvwriter.writerow(['wine', 'price', 'country', 'rating', 'wine count']) 
     csvwriter.writerows(rows)  
 
-cursor = conn.cursor()
+cursor = conn.cursor() 
+
+print('test')

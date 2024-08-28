@@ -1,4 +1,5 @@
 taste,keyword_count,wine,ratingAVG,ratingCOUNT
+<<<<<<< HEAD
 coffee,15,Brunello di Montalcino Riserva,4.6,3375
 coffee,15,Brunello di Montalcino Riserva,4.6,3375
 coffee,49,Pomerol,4.7,32157
@@ -1437,3 +1438,22 @@ cream,92,Blanc de Blancs Brut Champagne (Vintage),4.3,6400
 toast,56,Blanc de Blancs Brut Champagne (Vintage),4.3,6400
 coffee,23,25 anni Montefalco Sagrantino,4.3,5419
 coffee,23,25 anni Montefalco Sagrantino,4.3,5419
+=======
+green apple,224,Belle Epoque Brut Champagne,4.5,20992
+toast,160,Blanc des Millénaires,4.6,5581
+toast,2165,Brut Champagne,4.6,146377
+toast,587,Comtes de Champagne Blanc de Blancs,4.5,27449
+toast,464,Cristal Brut Champagne (Millésimé),4.6,42456
+toast,31,Cuvée des Enchanteleurs Brut Champagne,4.5,1732
+toast,226,Dom Ruinart Blanc de Blancs Brut Champagne,4.5,18466
+toast,713,Grande Cuvée,4.6,28513
+toast,525,La Grande Année Brut Champagne,4.5,24646
+toast,244,La Grande Dame Brut Champagne,4.5,17474
+citrus,240,Le Mesnil Blanc de Blancs (Cuvée S) Brut Champagne,4.7,9564
+toast,161,P2 Plénitude Brut Champagne,4.7,7543
+toast,163,R.D Extra Brut Champagne (Récemment Dégorgé),4.6,7737
+green apple,13,Sauternes,4.7,44126
+toast,282,Sir Winston Churchill Brut Champagne,4.6,12873
+coffee,21,Trebbiano d'Abruzzo,4.4,5834
+toast,356,Vintage,4.6,16918
+>>>>>>> b8962a6cfb5eb30c4f17b6143026023f82a64efb

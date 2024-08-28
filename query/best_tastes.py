@@ -3,12 +3,12 @@ import pandas as pd
 import csv
 
 
-con = sqlite3.connect('data/vivino.db')
-cur = con.cursor()
+con : sqlite3.Connection = sqlite3.connect('data/vivino.db')
+cur : sqlite3.Cursor = con.cursor()
 
 cur.execute('''
 SELECT 
-    keywords.name AS taste,
+    DISTINCT keywords.name AS taste,
     keywords_wine.count AS keyword_count,
     wines.name AS wine,
     wines.ratings_average,
@@ -21,23 +21,24 @@ JOIN
     keywords ON keywords.id =keywords_wine.keyword_id
 WHERE 
     keywords_wine.count > 10 AND 
-    keywords.name IN ('coffee', 'toast', 'green apple', 'cream', 'citrus');
+    keywords.name IN ('coffee', 'toast', 'green apple', 'cream', 'citrus')
+GROUP BY
+    wine
+HAVING 
+    COUNT(DISTINCT(taste)) = 5;             
 ''')
 
 row = cur.fetchall()
 
+<<<<<<< HEAD
+=======
+row : list[any] = cur.fetchall()
+
+
+>>>>>>> b8962a6cfb5eb30c4f17b6143026023f82a64efb
 with open('data/best_taste.csv', 'w', newline='') as file:
     csvfile = csv.writer(file)
     csvfile.writerow(['taste', 'keyword_count', 'wine', 'ratingAVG', 'ratingCOUNT'])
     csvfile.writerows(row)
-
-
-"""
-We detected that a big cluster of customers likes a specific combination of tastes.
-We identified a few keywords that match these tastes: coffee, toast, green apple, cream,
-and citrus (note that these keywords are case sensitive ⚠️). We would like you to find 
-all the wines that are related to these keywords. Check that at least 10 users confirm those 
-keywords, to ensure the accuracy of the selection. Additionally, identify an appropriate group name for this cluster.
-"""
 
 con.close()

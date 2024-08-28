@@ -1,14 +1,12 @@
 import sqlite3
 import pandas as pd
-
-# Open the file
-f = open('cabernet.csv', 'w')
+import csv
 
 # Create a connection and get a cursor
-con = sqlite3.connect('db/vivino.db')
-cur = con.cursor()
+con : sqlite3.Connection = sqlite3.connect('data/vivino.db')
+cur : sqlite3.Cursor = con.cursor()
 
-query_cabernet = f'''
+cur.execute('''
 SELECT
     vintages.name,
     vintages.ratings_average,
@@ -18,25 +16,13 @@ SELECT
 FROM 
     vintages
 WHERE vintages.name LIKE '%Cabernet Sauvignon%' 
-'''
+''')
 
-# Execute the query
-cur.execute(query_cabernet)
+row : list[any]= cur.fetchall()
 
-# Get Header Names (without tuples)
-colnames = [desc[0] for desc in cur.description]
-# Get data in batches
-while True:
-    # Read the data
-    df = pd.DataFrame(cur.fetchall())
-    # We are done if there are no data
-    if len(df) == 0:
-        break
-    # Let us write to the file
-    else:
-        df.to_csv(f, header=colnames)
+with open('data/cabernet.csv', 'w', newline='') as file:
+    csvfile = csv.writer(file)
+    csvfile.writerow(['name', 'ratingAVG', 'ratingCOUNT', 'year', 'price'])
+    csvfile.writerows(row)
 
-# Clean up
-f.close()
-cur.close()
 con.close()

@@ -4,23 +4,23 @@ coffee,15,Brunello di Montalcino Riserva,4.6,3375
 coffee,49,Pomerol,4.7,32157
 coffee,49,Pomerol,4.7,32157
 cream,18,Pomerol,4.7,32157
-citrus,240,Le Mesnil Blanc de Blancs (Cuv√©e S) Brut Champagne,4.7,9564
-toast,100,Le Mesnil Blanc de Blancs (Cuv√©e S) Brut Champagne,4.7,9564
-coffee,12,Le Mesnil Blanc de Blancs (Cuv√©e S) Brut Champagne,4.7,9564
-coffee,12,Le Mesnil Blanc de Blancs (Cuv√©e S) Brut Champagne,4.7,9564
-cream,118,Le Mesnil Blanc de Blancs (Cuv√©e S) Brut Champagne,4.7,9564
-toast,100,Le Mesnil Blanc de Blancs (Cuv√©e S) Brut Champagne,4.7,9564
-green apple,76,Le Mesnil Blanc de Blancs (Cuv√©e S) Brut Champagne,4.7,9564
-coffee,67,Pauillac (Premier Grand Cru Class√©),4.6,39283
-toast,17,Pauillac (Premier Grand Cru Class√©),4.6,39283
-coffee,67,Pauillac (Premier Grand Cru Class√©),4.6,39283
-cream,27,Pauillac (Premier Grand Cru Class√©),4.6,39283
-toast,17,Pauillac (Premier Grand Cru Class√©),4.6,39283
-coffee,108,Grand Vin Pauillac (Premier Grand Cru Class√©),4.6,38521
-toast,23,Grand Vin Pauillac (Premier Grand Cru Class√©),4.6,38521
-coffee,108,Grand Vin Pauillac (Premier Grand Cru Class√©),4.6,38521
-cream,29,Grand Vin Pauillac (Premier Grand Cru Class√©),4.6,38521
-toast,23,Grand Vin Pauillac (Premier Grand Cru Class√©),4.6,38521
+citrus,240,Le Mesnil Blanc de Blancs (CuvÈe S) Brut Champagne,4.7,9564
+toast,100,Le Mesnil Blanc de Blancs (CuvÈe S) Brut Champagne,4.7,9564
+coffee,12,Le Mesnil Blanc de Blancs (CuvÈe S) Brut Champagne,4.7,9564
+coffee,12,Le Mesnil Blanc de Blancs (CuvÈe S) Brut Champagne,4.7,9564
+cream,118,Le Mesnil Blanc de Blancs (CuvÈe S) Brut Champagne,4.7,9564
+toast,100,Le Mesnil Blanc de Blancs (CuvÈe S) Brut Champagne,4.7,9564
+green apple,76,Le Mesnil Blanc de Blancs (CuvÈe S) Brut Champagne,4.7,9564
+coffee,67,Pauillac (Premier Grand Cru ClassÈ),4.6,39283
+toast,17,Pauillac (Premier Grand Cru ClassÈ),4.6,39283
+coffee,67,Pauillac (Premier Grand Cru ClassÈ),4.6,39283
+cream,27,Pauillac (Premier Grand Cru ClassÈ),4.6,39283
+toast,17,Pauillac (Premier Grand Cru ClassÈ),4.6,39283
+coffee,108,Grand Vin Pauillac (Premier Grand Cru ClassÈ),4.6,38521
+toast,23,Grand Vin Pauillac (Premier Grand Cru ClassÈ),4.6,38521
+coffee,108,Grand Vin Pauillac (Premier Grand Cru ClassÈ),4.6,38521
+cream,29,Grand Vin Pauillac (Premier Grand Cru ClassÈ),4.6,38521
+toast,23,Grand Vin Pauillac (Premier Grand Cru ClassÈ),4.6,38521
 coffee,43,Toscana,4.7,16284
 coffee,43,Toscana,4.7,16284
 cream,16,Toscana,4.7,16284
@@ -51,13 +51,13 @@ coffee,27,Harlan Estate Red,4.7,7231
 cream,20,Harlan Estate Red,4.7,7231
 coffee,32,Amarone della Valpolicella Monte Lodoletta,4.7,7947
 coffee,32,Amarone della Valpolicella Monte Lodoletta,4.7,7947
-coffee,13,Vi√±a El Pison,4.6,3027
-coffee,13,Vi√±a El Pison,4.6,3027
-cream,12,Vi√±a El Pison,4.6,3027
+coffee,13,ViÒa El Pison,4.6,3027
+coffee,13,ViÒa El Pison,4.6,3027
+cream,12,ViÒa El Pison,4.6,3027
 coffee,13,Clos de Tart Grand Cru Monopole,4.5,4948
 coffee,13,Clos de Tart Grand Cru Monopole,4.5,4948
-coffee,33,Saint-√âmilion Grand Cru (Premier Grand Cru Class√©),4.6,6637
-coffee,33,Saint-√âmilion Grand Cru (Premier Grand Cru Class√©),4.6,6637
+coffee,33,Saint-…milion Grand Cru (Premier Grand Cru ClassÈ),4.6,6637
+coffee,33,Saint-…milion Grand Cru (Premier Grand Cru ClassÈ),4.6,6637
 coffee,179,Sassicaia,4.6,107646
 toast,47,Sassicaia,4.6,107646
 coffee,179,Sassicaia,4.6,107646
@@ -69,30 +69,30 @@ toast,55,Opus One,4.6,77053
 coffee,149,Opus One,4.6,77053
 cream,119,Opus One,4.6,77053
 toast,55,Opus One,4.6,77053
-toast,464,Cristal Brut Champagne (Mill√©sim√©),4.6,42456
-coffee,26,Cristal Brut Champagne (Mill√©sim√©),4.6,42456
-green apple,298,Cristal Brut Champagne (Mill√©sim√©),4.6,42456
-citrus,954,Cristal Brut Champagne (Mill√©sim√©),4.6,42456
-coffee,26,Cristal Brut Champagne (Mill√©sim√©),4.6,42456
-cream,496,Cristal Brut Champagne (Mill√©sim√©),4.6,42456
-toast,464,Cristal Brut Champagne (Mill√©sim√©),4.6,42456
-coffee,122,Valbuena 5¬∫,4.6,72784
-toast,69,Valbuena 5¬∫,4.6,72784
-coffee,122,Valbuena 5¬∫,4.6,72784
-cream,60,Valbuena 5¬∫,4.6,72784
-toast,69,Valbuena 5¬∫,4.6,72784
-coffee,201,Pauillac (Grand Cru Class√©),4.4,47234
-toast,49,Pauillac (Grand Cru Class√©),4.4,47234
-coffee,201,Pauillac (Grand Cru Class√©),4.4,47234
-cream,58,Pauillac (Grand Cru Class√©),4.4,47234
-toast,49,Pauillac (Grand Cru Class√©),4.4,47234
-citrus,12,Pauillac (Grand Cru Class√©),4.4,47234
-coffee,318,Pauillac (Premier Grand Cru Class√©),4.6,73615
-toast,73,Pauillac (Premier Grand Cru Class√©),4.6,73615
-coffee,318,Pauillac (Premier Grand Cru Class√©),4.6,73615
-cream,78,Pauillac (Premier Grand Cru Class√©),4.6,73615
-toast,73,Pauillac (Premier Grand Cru Class√©),4.6,73615
-citrus,11,Pauillac (Premier Grand Cru Class√©),4.6,73615
+toast,464,Cristal Brut Champagne (MillÈsimÈ),4.6,42456
+coffee,26,Cristal Brut Champagne (MillÈsimÈ),4.6,42456
+green apple,298,Cristal Brut Champagne (MillÈsimÈ),4.6,42456
+citrus,954,Cristal Brut Champagne (MillÈsimÈ),4.6,42456
+coffee,26,Cristal Brut Champagne (MillÈsimÈ),4.6,42456
+cream,496,Cristal Brut Champagne (MillÈsimÈ),4.6,42456
+toast,464,Cristal Brut Champagne (MillÈsimÈ),4.6,42456
+coffee,122,Valbuena 5∫,4.6,72784
+toast,69,Valbuena 5∫,4.6,72784
+coffee,122,Valbuena 5∫,4.6,72784
+cream,60,Valbuena 5∫,4.6,72784
+toast,69,Valbuena 5∫,4.6,72784
+coffee,201,Pauillac (Grand Cru ClassÈ),4.4,47234
+toast,49,Pauillac (Grand Cru ClassÈ),4.4,47234
+coffee,201,Pauillac (Grand Cru ClassÈ),4.4,47234
+cream,58,Pauillac (Grand Cru ClassÈ),4.4,47234
+toast,49,Pauillac (Grand Cru ClassÈ),4.4,47234
+citrus,12,Pauillac (Grand Cru ClassÈ),4.4,47234
+coffee,318,Pauillac (Premier Grand Cru ClassÈ),4.6,73615
+toast,73,Pauillac (Premier Grand Cru ClassÈ),4.6,73615
+coffee,318,Pauillac (Premier Grand Cru ClassÈ),4.6,73615
+cream,78,Pauillac (Premier Grand Cru ClassÈ),4.6,73615
+toast,73,Pauillac (Premier Grand Cru ClassÈ),4.6,73615
+citrus,11,Pauillac (Premier Grand Cru ClassÈ),4.6,73615
 coffee,100,Tenuta Tignanello 'Solaia',4.6,33143
 toast,19,Tenuta Tignanello 'Solaia',4.6,33143
 coffee,100,Tenuta Tignanello 'Solaia',4.6,33143
@@ -108,11 +108,11 @@ toast,25,Special Selection Cabernet Sauvignon,4.7,41236
 coffee,81,Special Selection Cabernet Sauvignon,4.7,41236
 cream,82,Special Selection Cabernet Sauvignon,4.7,41236
 toast,25,Special Selection Cabernet Sauvignon,4.7,41236
-coffee,103,Ch√¢teau Margaux (Premier Grand Cru Class√©),4.6,45350
-toast,38,Ch√¢teau Margaux (Premier Grand Cru Class√©),4.6,45350
-coffee,103,Ch√¢teau Margaux (Premier Grand Cru Class√©),4.6,45350
-cream,37,Ch√¢teau Margaux (Premier Grand Cru Class√©),4.6,45350
-toast,38,Ch√¢teau Margaux (Premier Grand Cru Class√©),4.6,45350
+coffee,103,Ch‚teau Margaux (Premier Grand Cru ClassÈ),4.6,45350
+toast,38,Ch‚teau Margaux (Premier Grand Cru ClassÈ),4.6,45350
+coffee,103,Ch‚teau Margaux (Premier Grand Cru ClassÈ),4.6,45350
+cream,37,Ch‚teau Margaux (Premier Grand Cru ClassÈ),4.6,45350
+toast,38,Ch‚teau Margaux (Premier Grand Cru ClassÈ),4.6,45350
 coffee,15,Rutherford,4.6,16322
 coffee,15,Rutherford,4.6,16322
 cream,20,Rutherford,4.6,16322
@@ -128,22 +128,22 @@ cream,240,Vintage,4.6,16918
 toast,356,Vintage,4.6,16918
 green apple,96,Vintage,4.6,16918
 citrus,406,Vintage,4.6,16918
-coffee,29,Don PX Convento Selecci√≥n,4.7,1224
-coffee,29,Don PX Convento Selecci√≥n,4.7,1224
+coffee,29,Don PX Convento SelecciÛn,4.7,1224
+coffee,29,Don PX Convento SelecciÛn,4.7,1224
 coffee,13,Recioto della Valpolicella Classico,4.7,1045
 coffee,13,Recioto della Valpolicella Classico,4.7,1045
-coffee,129,Pessac-L√©ognan (Premier Grand Cru Class√©),4.6,39605
-toast,38,Pessac-L√©ognan (Premier Grand Cru Class√©),4.6,39605
-coffee,129,Pessac-L√©ognan (Premier Grand Cru Class√©),4.6,39605
-cream,38,Pessac-L√©ognan (Premier Grand Cru Class√©),4.6,39605
-toast,38,Pessac-L√©ognan (Premier Grand Cru Class√©),4.6,39605
-toast,161,P2 Pl√©nitude Brut Champagne,4.7,7543
-coffee,14,P2 Pl√©nitude Brut Champagne,4.7,7543
-coffee,14,P2 Pl√©nitude Brut Champagne,4.7,7543
-cream,135,P2 Pl√©nitude Brut Champagne,4.7,7543
-toast,161,P2 Pl√©nitude Brut Champagne,4.7,7543
-green apple,30,P2 Pl√©nitude Brut Champagne,4.7,7543
-citrus,141,P2 Pl√©nitude Brut Champagne,4.7,7543
+coffee,129,Pessac-LÈognan (Premier Grand Cru ClassÈ),4.6,39605
+toast,38,Pessac-LÈognan (Premier Grand Cru ClassÈ),4.6,39605
+coffee,129,Pessac-LÈognan (Premier Grand Cru ClassÈ),4.6,39605
+cream,38,Pessac-LÈognan (Premier Grand Cru ClassÈ),4.6,39605
+toast,38,Pessac-LÈognan (Premier Grand Cru ClassÈ),4.6,39605
+toast,161,P2 PlÈnitude Brut Champagne,4.7,7543
+coffee,14,P2 PlÈnitude Brut Champagne,4.7,7543
+coffee,14,P2 PlÈnitude Brut Champagne,4.7,7543
+cream,135,P2 PlÈnitude Brut Champagne,4.7,7543
+toast,161,P2 PlÈnitude Brut Champagne,4.7,7543
+green apple,30,P2 PlÈnitude Brut Champagne,4.7,7543
+citrus,141,P2 PlÈnitude Brut Champagne,4.7,7543
 coffee,117,Unico,4.7,45140
 toast,38,Unico,4.7,45140
 coffee,117,Unico,4.7,45140
@@ -157,14 +157,14 @@ toast,33,Grange,4.7,24356
 coffee,129,Grange,4.7,24356
 cream,44,Grange,4.7,24356
 toast,33,Grange,4.7,24356
-toast,51,Cristal Ros√© Brut Champagne (Mill√©sim√©),4.6,5883
-citrus,74,Cristal Ros√© Brut Champagne (Mill√©sim√©),4.6,5883
-green apple,15,Cristal Ros√© Brut Champagne (Mill√©sim√©),4.6,5883
-cream,48,Cristal Ros√© Brut Champagne (Mill√©sim√©),4.6,5883
-toast,51,Cristal Ros√© Brut Champagne (Mill√©sim√©),4.6,5883
-coffee,101,Saint-√âmilion Grand Cru (Premier Grand Cru Class√©),4.6,28198
-coffee,101,Saint-√âmilion Grand Cru (Premier Grand Cru Class√©),4.6,28198
-cream,36,Saint-√âmilion Grand Cru (Premier Grand Cru Class√©),4.6,28198
+toast,51,Cristal RosÈ Brut Champagne (MillÈsimÈ),4.6,5883
+citrus,74,Cristal RosÈ Brut Champagne (MillÈsimÈ),4.6,5883
+green apple,15,Cristal RosÈ Brut Champagne (MillÈsimÈ),4.6,5883
+cream,48,Cristal RosÈ Brut Champagne (MillÈsimÈ),4.6,5883
+toast,51,Cristal RosÈ Brut Champagne (MillÈsimÈ),4.6,5883
+coffee,101,Saint-…milion Grand Cru (Premier Grand Cru ClassÈ),4.6,28198
+coffee,101,Saint-…milion Grand Cru (Premier Grand Cru ClassÈ),4.6,28198
+cream,36,Saint-…milion Grand Cru (Premier Grand Cru ClassÈ),4.6,28198
 coffee,36,Continuum Estate,4.6,6949
 toast,11,Continuum Estate,4.6,6949
 coffee,36,Continuum Estate,4.6,6949
@@ -178,40 +178,40 @@ cream,58,Dominus (Christian Moueix),4.5,22117
 toast,25,Dominus (Christian Moueix),4.5,22117
 coffee,24,Pingus,4.6,6013
 coffee,24,Pingus,4.6,6013
-coffee,111,Grand Vin de Ch√¢teau Palmer (Grand Cru Class√©),4.5,29026
-toast,35,Grand Vin de Ch√¢teau Palmer (Grand Cru Class√©),4.5,29026
-coffee,111,Grand Vin de Ch√¢teau Palmer (Grand Cru Class√©),4.5,29026
-cream,38,Grand Vin de Ch√¢teau Palmer (Grand Cru Class√©),4.5,29026
-toast,35,Grand Vin de Ch√¢teau Palmer (Grand Cru Class√©),4.5,29026
+coffee,111,Grand Vin de Ch‚teau Palmer (Grand Cru ClassÈ),4.5,29026
+toast,35,Grand Vin de Ch‚teau Palmer (Grand Cru ClassÈ),4.5,29026
+coffee,111,Grand Vin de Ch‚teau Palmer (Grand Cru ClassÈ),4.5,29026
+cream,38,Grand Vin de Ch‚teau Palmer (Grand Cru ClassÈ),4.5,29026
+toast,35,Grand Vin de Ch‚teau Palmer (Grand Cru ClassÈ),4.5,29026
 coffee,40,Messorio,4.5,5514
 coffee,40,Messorio,4.5,5514
 coffee,20,Brunello di Montalcino Riserva Madonna del Piano,4.5,3506
 coffee,20,Brunello di Montalcino Riserva Madonna del Piano,4.5,3506
-coffee,67,Saint-√âmilion Grand Cru (Premier Grand Cru Class√©),4.5,15671
-toast,24,Saint-√âmilion Grand Cru (Premier Grand Cru Class√©),4.5,15671
-coffee,67,Saint-√âmilion Grand Cru (Premier Grand Cru Class√©),4.5,15671
-cream,19,Saint-√âmilion Grand Cru (Premier Grand Cru Class√©),4.5,15671
-toast,24,Saint-√âmilion Grand Cru (Premier Grand Cru Class√©),4.5,15671
-toast,15,La Grande Dame Brut Ros√© Champagne,4.6,1118
-cream,13,La Grande Dame Brut Ros√© Champagne,4.6,1118
-toast,15,La Grande Dame Brut Ros√© Champagne,4.6,1118
-citrus,11,La Grande Dame Brut Ros√© Champagne,4.6,1118
+coffee,67,Saint-…milion Grand Cru (Premier Grand Cru ClassÈ),4.5,15671
+toast,24,Saint-…milion Grand Cru (Premier Grand Cru ClassÈ),4.5,15671
+coffee,67,Saint-…milion Grand Cru (Premier Grand Cru ClassÈ),4.5,15671
+cream,19,Saint-…milion Grand Cru (Premier Grand Cru ClassÈ),4.5,15671
+toast,24,Saint-…milion Grand Cru (Premier Grand Cru ClassÈ),4.5,15671
+toast,15,La Grande Dame Brut RosÈ Champagne,4.6,1118
+cream,13,La Grande Dame Brut RosÈ Champagne,4.6,1118
+toast,15,La Grande Dame Brut RosÈ Champagne,4.6,1118
+citrus,11,La Grande Dame Brut RosÈ Champagne,4.6,1118
 toast,28,Collection,4.7,2184
 cream,36,Collection,4.7,2184
 toast,28,Collection,4.7,2184
 citrus,38,Collection,4.7,2184
-coffee,12,Sor√¨ San Lorenzo,4.6,3857
-coffee,12,Sor√¨ San Lorenzo,4.6,3857
+coffee,12,SorÏ San Lorenzo,4.6,3857
+coffee,12,SorÏ San Lorenzo,4.6,3857
 coffee,17,Les Pavots,4.6,4010
 coffee,17,Les Pavots,4.6,4010
 cream,13,Les Pavots,4.6,4010
 coffee,14,Costa Russi (Barbaresco) Langhe,4.6,2876
 coffee,14,Costa Russi (Barbaresco) Langhe,4.6,2876
-coffee,43,Pessac-L√©ognan (Grand Cru Class√© de Graves),4.5,15975
-toast,14,Pessac-L√©ognan (Grand Cru Class√© de Graves),4.5,15975
-coffee,43,Pessac-L√©ognan (Grand Cru Class√© de Graves),4.5,15975
-cream,20,Pessac-L√©ognan (Grand Cru Class√© de Graves),4.5,15975
-toast,14,Pessac-L√©ognan (Grand Cru Class√© de Graves),4.5,15975
+coffee,43,Pessac-LÈognan (Grand Cru ClassÈ de Graves),4.5,15975
+toast,14,Pessac-LÈognan (Grand Cru ClassÈ de Graves),4.5,15975
+coffee,43,Pessac-LÈognan (Grand Cru ClassÈ de Graves),4.5,15975
+cream,20,Pessac-LÈognan (Grand Cru ClassÈ de Graves),4.5,15975
+toast,14,Pessac-LÈognan (Grand Cru ClassÈ de Graves),4.5,15975
 citrus,54,Chevalier-Montrachet Grand Cru,4.6,2340
 cream,22,Chevalier-Montrachet Grand Cru,4.6,2340
 coffee,17,Campo Inferi Amarone della Valpolicella Classico Riserva,4.6,2112
@@ -231,43 +231,43 @@ coffee,16,Cabernet Sauvignon,4.5,3087
 coffee,16,Cabernet Sauvignon,4.5,3087
 coffee,16,Brunello di Montalcino Riserva,4.6,1589
 coffee,16,Brunello di Montalcino Riserva,4.6,1589
-coffee,88,Saint-√âmilion Grand Cru (Premier Grand Cru Class√©),4.6,22896
-toast,23,Saint-√âmilion Grand Cru (Premier Grand Cru Class√©),4.6,22896
-coffee,88,Saint-√âmilion Grand Cru (Premier Grand Cru Class√©),4.6,22896
-cream,28,Saint-√âmilion Grand Cru (Premier Grand Cru Class√©),4.6,22896
-toast,23,Saint-√âmilion Grand Cru (Premier Grand Cru Class√©),4.6,22896
-toast,31,Cuv√©e des Enchanteleurs Brut Champagne,4.5,1732
-coffee,14,Cuv√©e des Enchanteleurs Brut Champagne,4.5,1732
-coffee,14,Cuv√©e des Enchanteleurs Brut Champagne,4.5,1732
-cream,37,Cuv√©e des Enchanteleurs Brut Champagne,4.5,1732
-toast,31,Cuv√©e des Enchanteleurs Brut Champagne,4.5,1732
-green apple,11,Cuv√©e des Enchanteleurs Brut Champagne,4.5,1732
-citrus,25,Cuv√©e des Enchanteleurs Brut Champagne,4.5,1732
+coffee,88,Saint-…milion Grand Cru (Premier Grand Cru ClassÈ),4.6,22896
+toast,23,Saint-…milion Grand Cru (Premier Grand Cru ClassÈ),4.6,22896
+coffee,88,Saint-…milion Grand Cru (Premier Grand Cru ClassÈ),4.6,22896
+cream,28,Saint-…milion Grand Cru (Premier Grand Cru ClassÈ),4.6,22896
+toast,23,Saint-…milion Grand Cru (Premier Grand Cru ClassÈ),4.6,22896
+toast,31,CuvÈe des Enchanteleurs Brut Champagne,4.5,1732
+coffee,14,CuvÈe des Enchanteleurs Brut Champagne,4.5,1732
+coffee,14,CuvÈe des Enchanteleurs Brut Champagne,4.5,1732
+cream,37,CuvÈe des Enchanteleurs Brut Champagne,4.5,1732
+toast,31,CuvÈe des Enchanteleurs Brut Champagne,4.5,1732
+green apple,11,CuvÈe des Enchanteleurs Brut Champagne,4.5,1732
+citrus,25,CuvÈe des Enchanteleurs Brut Champagne,4.5,1732
 coffee,22,L'Apparita,4.4,3836
 coffee,22,L'Apparita,4.4,3836
-citrus,33,Pessac-L√©ognan Blanc (Grand Cru Class√© de Graves),4.5,1206
-cream,13,Pessac-L√©ognan Blanc (Grand Cru Class√© de Graves),4.5,1206
-citrus,17,Bienvenues-B√¢tard-Montrachet Grand Cru,4.5,480
-coffee,37,C√¥te-R√¥tie La Turque,4.6,4891
-toast,13,C√¥te-R√¥tie La Turque,4.6,4891
-coffee,37,C√¥te-R√¥tie La Turque,4.6,4891
-cream,11,C√¥te-R√¥tie La Turque,4.6,4891
-toast,13,C√¥te-R√¥tie La Turque,4.6,4891
+citrus,33,Pessac-LÈognan Blanc (Grand Cru ClassÈ de Graves),4.5,1206
+cream,13,Pessac-LÈognan Blanc (Grand Cru ClassÈ de Graves),4.5,1206
+citrus,17,Bienvenues-B‚tard-Montrachet Grand Cru,4.5,480
+coffee,37,CÙte-RÙtie La Turque,4.6,4891
+toast,13,CÙte-RÙtie La Turque,4.6,4891
+coffee,37,CÙte-RÙtie La Turque,4.6,4891
+cream,11,CÙte-RÙtie La Turque,4.6,4891
+toast,13,CÙte-RÙtie La Turque,4.6,4891
 coffee,39,Amarone della Valpolicella Classico,4.4,18720
 coffee,39,Amarone della Valpolicella Classico,4.4,18720
 cream,15,Amarone della Valpolicella Classico,4.4,18720
 citrus,16,Montrachet Grand Cru,4.7,516
-cream,14,B√¢tard-Montrachet Grand Cru,4.6,1191
-citrus,19,B√¢tard-Montrachet Grand Cru,4.6,1191
-coffee,25,C√¥te-R√¥tie La Mouline,4.6,4380
-coffee,25,C√¥te-R√¥tie La Mouline,4.6,4380
-toast,713,Grande Cuv√©e,4.6,28513
-coffee,50,Grande Cuv√©e,4.6,28513
-coffee,50,Grande Cuv√©e,4.6,28513
-cream,439,Grande Cuv√©e,4.6,28513
-toast,713,Grande Cuv√©e,4.6,28513
-citrus,916,Grande Cuv√©e,4.6,28513
-green apple,304,Grande Cuv√©e,4.6,28513
+cream,14,B‚tard-Montrachet Grand Cru,4.6,1191
+citrus,19,B‚tard-Montrachet Grand Cru,4.6,1191
+coffee,25,CÙte-RÙtie La Mouline,4.6,4380
+coffee,25,CÙte-RÙtie La Mouline,4.6,4380
+toast,713,Grande CuvÈe,4.6,28513
+coffee,50,Grande CuvÈe,4.6,28513
+coffee,50,Grande CuvÈe,4.6,28513
+cream,439,Grande CuvÈe,4.6,28513
+toast,713,Grande CuvÈe,4.6,28513
+citrus,916,Grande CuvÈe,4.6,28513
+green apple,304,Grande CuvÈe,4.6,28513
 toast,2165,Brut Champagne,4.6,146377
 coffee,145,Brut Champagne,4.6,146377
 cream,1564,Brut Champagne,4.6,146377
@@ -287,22 +287,22 @@ coffee,271,Tignanello,4.5,142513
 cream,96,Tignanello,4.5,142513
 toast,61,Tignanello,4.5,142513
 citrus,15,Tignanello,4.5,142513
-toast,163,R.D Extra Brut Champagne (R√©cemment D√©gorg√©),4.6,7737
-coffee,17,R.D Extra Brut Champagne (R√©cemment D√©gorg√©),4.6,7737
-coffee,17,R.D Extra Brut Champagne (R√©cemment D√©gorg√©),4.6,7737
-cream,157,R.D Extra Brut Champagne (R√©cemment D√©gorg√©),4.6,7737
-toast,163,R.D Extra Brut Champagne (R√©cemment D√©gorg√©),4.6,7737
-green apple,34,R.D Extra Brut Champagne (R√©cemment D√©gorg√©),4.6,7737
-citrus,149,R.D Extra Brut Champagne (R√©cemment D√©gorg√©),4.6,7737
-coffee,69,Saint-√âmilion Grand Cru,4.6,5390
-coffee,69,Saint-√âmilion Grand Cru,4.6,5390
-cream,15,Saint-√âmilion Grand Cru,4.6,5390
+toast,163,R.D Extra Brut Champagne (RÈcemment DÈgorgÈ),4.6,7737
+coffee,17,R.D Extra Brut Champagne (RÈcemment DÈgorgÈ),4.6,7737
+coffee,17,R.D Extra Brut Champagne (RÈcemment DÈgorgÈ),4.6,7737
+cream,157,R.D Extra Brut Champagne (RÈcemment DÈgorgÈ),4.6,7737
+toast,163,R.D Extra Brut Champagne (RÈcemment DÈgorgÈ),4.6,7737
+green apple,34,R.D Extra Brut Champagne (RÈcemment DÈgorgÈ),4.6,7737
+citrus,149,R.D Extra Brut Champagne (RÈcemment DÈgorgÈ),4.6,7737
+coffee,69,Saint-…milion Grand Cru,4.6,5390
+coffee,69,Saint-…milion Grand Cru,4.6,5390
+cream,15,Saint-…milion Grand Cru,4.6,5390
 coffee,15,Veneto Rosso del Bepi,4.6,3747
 coffee,15,Veneto Rosso del Bepi,4.6,3747
-toast,65,Ros√©,4.6,3605
-cream,56,Ros√©,4.6,3605
-toast,65,Ros√©,4.6,3605
-citrus,43,Ros√©,4.6,3605
+toast,65,RosÈ,4.6,3605
+cream,56,RosÈ,4.6,3605
+toast,65,RosÈ,4.6,3605
+citrus,43,RosÈ,4.6,3605
 coffee,16,Cirsion Rioja,4.6,3474
 coffee,16,Cirsion Rioja,4.6,3474
 coffee,123,Almaviva,4.6,48075
@@ -327,11 +327,11 @@ cream,290,Sir Winston Churchill Brut Champagne,4.6,12873
 toast,282,Sir Winston Churchill Brut Champagne,4.6,12873
 green apple,127,Sir Winston Churchill Brut Champagne,4.6,12873
 citrus,408,Sir Winston Churchill Brut Champagne,4.6,12873
-coffee,147,Pauillac (Grand Cru Class√©),4.4,55808
-toast,43,Pauillac (Grand Cru Class√©),4.4,55808
-coffee,147,Pauillac (Grand Cru Class√©),4.4,55808
-cream,49,Pauillac (Grand Cru Class√©),4.4,55808
-toast,43,Pauillac (Grand Cru Class√©),4.4,55808
+coffee,147,Pauillac (Grand Cru ClassÈ),4.4,55808
+toast,43,Pauillac (Grand Cru ClassÈ),4.4,55808
+coffee,147,Pauillac (Grand Cru ClassÈ),4.4,55808
+cream,49,Pauillac (Grand Cru ClassÈ),4.4,55808
+toast,43,Pauillac (Grand Cru ClassÈ),4.4,55808
 coffee,76,Clos Apalta,4.6,23256
 toast,13,Clos Apalta,4.6,23256
 coffee,76,Clos Apalta,4.6,23256
@@ -350,18 +350,18 @@ toast,34,Castillo Ygay Gran Reserva Especial Tinto,4.5,23170
 coffee,36,Amarone della Valpolicella Classico Riserva (Sergio Zenato),4.5,9963
 coffee,36,Amarone della Valpolicella Classico Riserva (Sergio Zenato),4.5,9963
 cream,12,Amarone della Valpolicella Classico Riserva (Sergio Zenato),4.5,9963
-coffee,102,Saint-Julien (Grand Cru Class√©),4.4,29317
-toast,32,Saint-Julien (Grand Cru Class√©),4.4,29317
-coffee,102,Saint-Julien (Grand Cru Class√©),4.4,29317
-cream,26,Saint-Julien (Grand Cru Class√©),4.4,29317
-toast,32,Saint-Julien (Grand Cru Class√©),4.4,29317
+coffee,102,Saint-Julien (Grand Cru ClassÈ),4.4,29317
+toast,32,Saint-Julien (Grand Cru ClassÈ),4.4,29317
+coffee,102,Saint-Julien (Grand Cru ClassÈ),4.4,29317
+cream,26,Saint-Julien (Grand Cru ClassÈ),4.4,29317
+toast,32,Saint-Julien (Grand Cru ClassÈ),4.4,29317
 coffee,14,Finca Altamira Malbec,4.5,8093
 coffee,14,Finca Altamira Malbec,4.5,8093
 cream,13,Finca Altamira Malbec,4.5,8093
-toast,107,Brut Ros√© Champagne,4.6,13747
-cream,141,Brut Ros√© Champagne,4.6,13747
-toast,107,Brut Ros√© Champagne,4.6,13747
-citrus,79,Brut Ros√© Champagne,4.6,13747
+toast,107,Brut RosÈ Champagne,4.6,13747
+cream,141,Brut RosÈ Champagne,4.6,13747
+toast,107,Brut RosÈ Champagne,4.6,13747
+citrus,79,Brut RosÈ Champagne,4.6,13747
 coffee,36,Pomerol,4.5,12214
 coffee,36,Pomerol,4.5,12214
 cream,21,Pomerol,4.5,12214
@@ -375,8 +375,8 @@ toast,11,Redigaffi Toscana,4.5,5212
 coffee,24,Redigaffi Toscana,4.5,5212
 cream,13,Redigaffi Toscana,4.5,5212
 toast,11,Redigaffi Toscana,4.5,5212
-coffee,12,Hommage √† Jacques Perrin Ch√¢teauneuf-du-Pape,4.5,6121
-coffee,12,Hommage √† Jacques Perrin Ch√¢teauneuf-du-Pape,4.5,6121
+coffee,12,Hommage ‡ Jacques Perrin Ch‚teauneuf-du-Pape,4.5,6121
+coffee,12,Hommage ‡ Jacques Perrin Ch‚teauneuf-du-Pape,4.5,6121
 toast,226,Dom Ruinart Blanc de Blancs Brut Champagne,4.5,18466
 coffee,22,Dom Ruinart Blanc de Blancs Brut Champagne,4.5,18466
 cream,165,Dom Ruinart Blanc de Blancs Brut Champagne,4.5,18466
@@ -384,23 +384,23 @@ toast,226,Dom Ruinart Blanc de Blancs Brut Champagne,4.5,18466
 coffee,22,Dom Ruinart Blanc de Blancs Brut Champagne,4.5,18466
 green apple,86,Dom Ruinart Blanc de Blancs Brut Champagne,4.5,18466
 citrus,250,Dom Ruinart Blanc de Blancs Brut Champagne,4.5,18466
-toast,95,Amour de Deutz Mill√©sim√© Brut Champagne,4.5,5532
-cream,92,Amour de Deutz Mill√©sim√© Brut Champagne,4.5,5532
-toast,95,Amour de Deutz Mill√©sim√© Brut Champagne,4.5,5532
-citrus,89,Amour de Deutz Mill√©sim√© Brut Champagne,4.5,5532
-green apple,25,Amour de Deutz Mill√©sim√© Brut Champagne,4.5,5532
+toast,95,Amour de Deutz MillÈsimÈ Brut Champagne,4.5,5532
+cream,92,Amour de Deutz MillÈsimÈ Brut Champagne,4.5,5532
+toast,95,Amour de Deutz MillÈsimÈ Brut Champagne,4.5,5532
+citrus,89,Amour de Deutz MillÈsimÈ Brut Champagne,4.5,5532
+green apple,25,Amour de Deutz MillÈsimÈ Brut Champagne,4.5,5532
 coffee,45,Pomerol,4.3,11885
 toast,23,Pomerol,4.3,11885
 coffee,45,Pomerol,4.3,11885
 cream,22,Pomerol,4.3,11885
 toast,23,Pomerol,4.3,11885
-coffee,13,V√ºrs√π Barolo Camp√®,4.4,6260
-coffee,13,V√ºrs√π Barolo Camp√®,4.4,6260
-coffee,107,Saint-Julien (Grand Cru Class√©),4.4,28094
-toast,29,Saint-Julien (Grand Cru Class√©),4.4,28094
-coffee,107,Saint-Julien (Grand Cru Class√©),4.4,28094
-cream,43,Saint-Julien (Grand Cru Class√©),4.4,28094
-toast,29,Saint-Julien (Grand Cru Class√©),4.4,28094
+coffee,13,V¸rs˘ Barolo CampË,4.4,6260
+coffee,13,V¸rs˘ Barolo CampË,4.4,6260
+coffee,107,Saint-Julien (Grand Cru ClassÈ),4.4,28094
+toast,29,Saint-Julien (Grand Cru ClassÈ),4.4,28094
+coffee,107,Saint-Julien (Grand Cru ClassÈ),4.4,28094
+cream,43,Saint-Julien (Grand Cru ClassÈ),4.4,28094
+toast,29,Saint-Julien (Grand Cru ClassÈ),4.4,28094
 cream,110,Corton-Charlemagne Grand Cru,4.4,5755
 toast,43,Corton-Charlemagne Grand Cru,4.4,5755
 toast,43,Corton-Charlemagne Grand Cru,4.4,5755
@@ -477,7 +477,7 @@ cream,13,Corton-Charlemagne Grand Cru,4.4,1913
 toast,16,Corton-Charlemagne Grand Cru,4.4,1913
 green apple,14,Corton-Charlemagne Grand Cru,4.4,1913
 toast,16,Corton-Charlemagne Grand Cru,4.4,1913
-citrus,23,Tokaji Asz√∫ 6 Puttonyos,4.6,2366
+citrus,23,Tokaji Asz˙ 6 Puttonyos,4.6,2366
 coffee,23,Rubicon,4.6,6421
 coffee,23,Rubicon,4.6,6421
 cream,12,Rubicon,4.6,6421
@@ -488,30 +488,30 @@ citrus,99,Clos Sainte Hune Riesling Alsace,4.5,4106
 cream,13,Clos Sainte Hune Riesling Alsace,4.5,4106
 coffee,14,Toscana Rosso,4.5,2799
 coffee,14,Toscana Rosso,4.5,2799
-cream,18,Amour de Deutz Millesim√© Ros√© Brut Champagne,4.5,536
-citrus,13,Amour de Deutz Millesim√© Ros√© Brut Champagne,4.5,536
-coffee,20,Unico Reserva Especial Edici√≥n,4.7,13025
-coffee,20,Unico Reserva Especial Edici√≥n,4.7,13025
-cream,11,Unico Reserva Especial Edici√≥n,4.7,13025
-citrus,11,Ch√¢teauneuf-du-Pape R√©serv√© Blanc,4.4,668
+cream,18,Amour de Deutz MillesimÈ RosÈ Brut Champagne,4.5,536
+citrus,13,Amour de Deutz MillesimÈ RosÈ Brut Champagne,4.5,536
+coffee,20,Unico Reserva Especial EdiciÛn,4.7,13025
+coffee,20,Unico Reserva Especial EdiciÛn,4.7,13025
+cream,11,Unico Reserva Especial EdiciÛn,4.7,13025
+citrus,11,Ch‚teauneuf-du-Pape RÈservÈ Blanc,4.4,668
 citrus,14,Scharzhofberger Riesling Auslese,4.6,1666
 cream,13,Scharzhofberger Riesling Auslese,4.6,1666
-coffee,26,C√¥te-R√¥tie La Landonne,4.6,4068
-coffee,26,C√¥te-R√¥tie La Landonne,4.6,4068
+coffee,26,CÙte-RÙtie La Landonne,4.6,4068
+coffee,26,CÙte-RÙtie La Landonne,4.6,4068
 coffee,18,L'Hermitage,4.6,8592
 coffee,18,L'Hermitage,4.6,8592
 citrus,25,Corton-Charlemagne Grand Cru,4.4,1045
 coffee,13,Pomerol,4.3,3870
 coffee,13,Pomerol,4.3,3870
-coffee,13,Saint-Emilion Grand Cru (Premier Grand Cru Class√©),4.4,1986
-coffee,13,Saint-Emilion Grand Cru (Premier Grand Cru Class√©),4.4,1986
+coffee,13,Saint-Emilion Grand Cru (Premier Grand Cru ClassÈ),4.4,1986
+coffee,13,Saint-Emilion Grand Cru (Premier Grand Cru ClassÈ),4.4,1986
 coffee,25,Pomerol,4.4,3509
 coffee,25,Pomerol,4.4,3509
 cream,13,Corton-Charlemagne Grand Cru,4.4,1007
 citrus,24,Corton-Charlemagne Grand Cru,4.4,1007
-coffee,30,Saint-√âmilion Grand Cru,4.4,2829
-coffee,30,Saint-√âmilion Grand Cru,4.4,2829
-cream,11,Saint-√âmilion Grand Cru,4.4,2829
+coffee,30,Saint-…milion Grand Cru,4.4,2829
+coffee,30,Saint-…milion Grand Cru,4.4,2829
+cream,11,Saint-…milion Grand Cru,4.4,2829
 coffee,11,Trasnocho,4.5,3399
 coffee,11,Trasnocho,4.5,3399
 coffee,15,Vin Santo di Montepulciano Occhio di Pernice,4.4,1867
@@ -536,11 +536,11 @@ cream,12,Overture,4.5,16804
 coffee,36,Valpolicella Classico Superiore,4.5,12262
 coffee,36,Valpolicella Classico Superiore,4.5,12262
 cream,12,Valpolicella Classico Superiore,4.5,12262
-toast,212,Grand Si√®cle Champagne (Grande Cuv√©e),4.5,9824
-cream,169,Grand Si√®cle Champagne (Grande Cuv√©e),4.5,9824
-toast,212,Grand Si√®cle Champagne (Grande Cuv√©e),4.5,9824
-green apple,136,Grand Si√®cle Champagne (Grande Cuv√©e),4.5,9824
-citrus,296,Grand Si√®cle Champagne (Grande Cuv√©e),4.5,9824
+toast,212,Grand SiËcle Champagne (Grande CuvÈe),4.5,9824
+cream,169,Grand SiËcle Champagne (Grande CuvÈe),4.5,9824
+toast,212,Grand SiËcle Champagne (Grande CuvÈe),4.5,9824
+green apple,136,Grand SiËcle Champagne (Grande CuvÈe),4.5,9824
+citrus,296,Grand SiËcle Champagne (Grande CuvÈe),4.5,9824
 coffee,45,Limited Edition 10 Vendemmie,4.5,9453
 coffee,45,Limited Edition 10 Vendemmie,4.5,9453
 cream,15,Limited Edition 10 Vendemmie,4.5,9453
@@ -558,13 +558,13 @@ toast,38,Papillon,4.5,30682
 coffee,61,Papillon,4.5,30682
 cream,29,Papillon,4.5,30682
 toast,38,Papillon,4.5,30682
-toast,525,La Grande Ann√©e Brut Champagne,4.5,24646
-coffee,32,La Grande Ann√©e Brut Champagne,4.5,24646
-coffee,32,La Grande Ann√©e Brut Champagne,4.5,24646
-cream,425,La Grande Ann√©e Brut Champagne,4.5,24646
-toast,525,La Grande Ann√©e Brut Champagne,4.5,24646
-green apple,175,La Grande Ann√©e Brut Champagne,4.5,24646
-citrus,454,La Grande Ann√©e Brut Champagne,4.5,24646
+toast,525,La Grande AnnÈe Brut Champagne,4.5,24646
+coffee,32,La Grande AnnÈe Brut Champagne,4.5,24646
+coffee,32,La Grande AnnÈe Brut Champagne,4.5,24646
+cream,425,La Grande AnnÈe Brut Champagne,4.5,24646
+toast,525,La Grande AnnÈe Brut Champagne,4.5,24646
+green apple,175,La Grande AnnÈe Brut Champagne,4.5,24646
+citrus,454,La Grande AnnÈe Brut Champagne,4.5,24646
 coffee,84,Alexander Valley Cabernet Sauvignon,4.4,46066
 toast,31,Alexander Valley Cabernet Sauvignon,4.4,46066
 coffee,84,Alexander Valley Cabernet Sauvignon,4.4,46066
@@ -630,13 +630,13 @@ toast,29,Aconcagua Valley,4.5,18482
 coffee,68,Aconcagua Valley,4.5,18482
 cream,31,Aconcagua Valley,4.5,18482
 toast,29,Aconcagua Valley,4.5,18482
-citrus,20,B√¢tard-Montrachet Grand Cru,4.5,1182
-cream,11,B√¢tard-Montrachet Grand Cru,4.5,1182
-coffee,157,Pauillac (Grand Cru Class√©),4.4,37460
-toast,42,Pauillac (Grand Cru Class√©),4.4,37460
-coffee,157,Pauillac (Grand Cru Class√©),4.4,37460
-cream,36,Pauillac (Grand Cru Class√©),4.4,37460
-toast,42,Pauillac (Grand Cru Class√©),4.4,37460
+citrus,20,B‚tard-Montrachet Grand Cru,4.5,1182
+cream,11,B‚tard-Montrachet Grand Cru,4.5,1182
+coffee,157,Pauillac (Grand Cru ClassÈ),4.4,37460
+toast,42,Pauillac (Grand Cru ClassÈ),4.4,37460
+coffee,157,Pauillac (Grand Cru ClassÈ),4.4,37460
+cream,36,Pauillac (Grand Cru ClassÈ),4.4,37460
+toast,42,Pauillac (Grand Cru ClassÈ),4.4,37460
 toast,587,Comtes de Champagne Blanc de Blancs,4.5,27449
 coffee,39,Comtes de Champagne Blanc de Blancs,4.5,27449
 cream,589,Comtes de Champagne Blanc de Blancs,4.5,27449
@@ -646,8 +646,8 @@ citrus,720,Comtes de Champagne Blanc de Blancs,4.5,27449
 green apple,249,Comtes de Champagne Blanc de Blancs,4.5,27449
 citrus,15,Champagne,4.5,1021
 cream,17,Champagne,4.5,1021
-coffee,23,Pedro Ximenez Tradici√≥n 20 Years Old Vos,4.5,954
-coffee,23,Pedro Ximenez Tradici√≥n 20 Years Old Vos,4.5,954
+coffee,23,Pedro Ximenez TradiciÛn 20 Years Old Vos,4.5,954
+coffee,23,Pedro Ximenez TradiciÛn 20 Years Old Vos,4.5,954
 coffee,60,Hermitage La Chapelle Rouge,4.3,15298
 toast,18,Hermitage La Chapelle Rouge,4.3,15298
 coffee,60,Hermitage La Chapelle Rouge,4.3,15298
@@ -660,7 +660,7 @@ coffee,57,Fusion V,4.4,12877
 citrus,86,Quarz Sauvignon,4.4,8884
 green apple,24,Quarz Sauvignon,4.4,8884
 cream,28,Quarz Sauvignon,4.4,8884
-cream,13,Brut Ros√© Champagne,4.5,830
+cream,13,Brut RosÈ Champagne,4.5,830
 coffee,40,One Point Five Cabernet Sauvignon,4.5,16341
 coffee,40,One Point Five Cabernet Sauvignon,4.5,16341
 cream,28,One Point Five Cabernet Sauvignon,4.5,16341
@@ -700,21 +700,21 @@ toast,60,ARTEMIS Cabernet Sauvignon,4.4,81351
 coffee,116,ARTEMIS Cabernet Sauvignon,4.4,81351
 cream,93,ARTEMIS Cabernet Sauvignon,4.4,81351
 toast,60,ARTEMIS Cabernet Sauvignon,4.4,81351
-citrus,46,Tokaji Asz√∫ 5 Puttonyos,4.5,5449
-toast,30,Tokaji Asz√∫ 5 Puttonyos,4.5,5449
-cream,19,Tokaji Asz√∫ 5 Puttonyos,4.5,5449
-toast,30,Tokaji Asz√∫ 5 Puttonyos,4.5,5449
+citrus,46,Tokaji Asz˙ 5 Puttonyos,4.5,5449
+toast,30,Tokaji Asz˙ 5 Puttonyos,4.5,5449
+cream,19,Tokaji Asz˙ 5 Puttonyos,4.5,5449
+toast,30,Tokaji Asz˙ 5 Puttonyos,4.5,5449
 coffee,35,5 Stelle Sfursat,4.5,10740
 coffee,35,5 Stelle Sfursat,4.5,10740
 coffee,12,Vecchie Vigne Brunello di Montalcino,4.3,3868
 coffee,12,Vecchie Vigne Brunello di Montalcino,4.3,3868
 coffee,14,Lupicaia,4.4,4414
 coffee,14,Lupicaia,4.4,4414
-toast,40,Cuv√©e Annamaria Clementi (Extra Brut),4.5,7928
-cream,65,Cuv√©e Annamaria Clementi (Extra Brut),4.5,7928
-toast,40,Cuv√©e Annamaria Clementi (Extra Brut),4.5,7928
-green apple,20,Cuv√©e Annamaria Clementi (Extra Brut),4.5,7928
-citrus,35,Cuv√©e Annamaria Clementi (Extra Brut),4.5,7928
+toast,40,CuvÈe Annamaria Clementi (Extra Brut),4.5,7928
+cream,65,CuvÈe Annamaria Clementi (Extra Brut),4.5,7928
+toast,40,CuvÈe Annamaria Clementi (Extra Brut),4.5,7928
+green apple,20,CuvÈe Annamaria Clementi (Extra Brut),4.5,7928
+citrus,35,CuvÈe Annamaria Clementi (Extra Brut),4.5,7928
 coffee,13,Pietro Dal Cero Amarone della Valpolicella,4.5,6424
 coffee,13,Pietro Dal Cero Amarone della Valpolicella,4.5,6424
 cream,15,Chloe Chardonnay,4.5,458
@@ -725,27 +725,27 @@ cream,12,FAY Cabernet Sauvignon,4.5,10840
 coffee,37,Galatrona,4.3,7971
 coffee,37,Galatrona,4.3,7971
 cream,19,Galatrona,4.3,7971
-coffee,41,Mac√°n,4.4,14368
-coffee,41,Mac√°n,4.4,14368
-cream,14,Mac√°n,4.4,14368
-coffee,20,Bar√≥n de Chirel Rioja Reserva,4.4,8578
-toast,16,Bar√≥n de Chirel Rioja Reserva,4.4,8578
-coffee,20,Bar√≥n de Chirel Rioja Reserva,4.4,8578
-toast,16,Bar√≥n de Chirel Rioja Reserva,4.4,8578
+coffee,41,Mac·n,4.4,14368
+coffee,41,Mac·n,4.4,14368
+cream,14,Mac·n,4.4,14368
+coffee,20,BarÛn de Chirel Rioja Reserva,4.4,8578
+toast,16,BarÛn de Chirel Rioja Reserva,4.4,8578
+coffee,20,BarÛn de Chirel Rioja Reserva,4.4,8578
+toast,16,BarÛn de Chirel Rioja Reserva,4.4,8578
 coffee,12,Barolo Bricco Rocche,4.4,2923
 coffee,12,Barolo Bricco Rocche,4.4,2923
 coffee,17,Vigne Vecchie Gold Series Leggenda Primitivo di Manduria,4.3,3121
 coffee,17,Vigne Vecchie Gold Series Leggenda Primitivo di Manduria,4.3,3121
-coffee,43,Nicol√°s Catena Zapata,4.4,28227
-coffee,43,Nicol√°s Catena Zapata,4.4,28227
-cream,24,Nicol√°s Catena Zapata,4.4,28227
+coffee,43,Nicol·s Catena Zapata,4.4,28227
+coffee,43,Nicol·s Catena Zapata,4.4,28227
+cream,24,Nicol·s Catena Zapata,4.4,28227
 coffee,36,Turriga Isola dei Nuraghi,4.4,14641
 coffee,36,Turriga Isola dei Nuraghi,4.4,14641
-coffee,185,Saint-Julien (Grand Cru Class√©),4.3,33618
-toast,54,Saint-Julien (Grand Cru Class√©),4.3,33618
-coffee,185,Saint-Julien (Grand Cru Class√©),4.3,33618
-cream,65,Saint-Julien (Grand Cru Class√©),4.3,33618
-toast,54,Saint-Julien (Grand Cru Class√©),4.3,33618
+coffee,185,Saint-Julien (Grand Cru ClassÈ),4.3,33618
+toast,54,Saint-Julien (Grand Cru ClassÈ),4.3,33618
+coffee,185,Saint-Julien (Grand Cru ClassÈ),4.3,33618
+cream,65,Saint-Julien (Grand Cru ClassÈ),4.3,33618
+toast,54,Saint-Julien (Grand Cru ClassÈ),4.3,33618
 coffee,18,Brunello di Montalcino,4.5,7883
 coffee,18,Brunello di Montalcino,4.5,7883
 coffee,12,Luce Brunello di Montalcino,4.5,6544
@@ -765,8 +765,8 @@ cream,30,Beaune 1er Cru 'Clos des Mouches' Blanc,4.4,3093
 citrus,36,Beaune 1er Cru 'Clos des Mouches' Blanc,4.4,3093
 coffee,18,Gran Enemigo,4.5,18739
 coffee,18,Gran Enemigo,4.5,18739
-coffee,19,Bric D√´l Fiasc Barolo,4.3,4947
-coffee,19,Bric D√´l Fiasc Barolo,4.3,4947
+coffee,19,Bric DÎl Fiasc Barolo,4.3,4947
+coffee,19,Bric DÎl Fiasc Barolo,4.3,4947
 citrus,185,Silex,4.5,8386
 green apple,48,Silex,4.5,8386
 cream,45,Silex,4.5,8386
@@ -785,15 +785,15 @@ coffee,28,Clos des Lambrays Grand Cru,4.4,6431
 coffee,12,Colheita Port,4.2,8039
 coffee,12,Colheita Port,4.2,8039
 cream,16,Colheita Port,4.2,8039
-citrus,57,Barsac (Premier Grand Cru Class√©),4.4,6028
-toast,19,Barsac (Premier Grand Cru Class√©),4.4,6028
-cream,65,Barsac (Premier Grand Cru Class√©),4.4,6028
-toast,19,Barsac (Premier Grand Cru Class√©),4.4,6028
-coffee,94,Saint-Est√®phe (Grand Cru Class√©),4.3,35624
-toast,35,Saint-Est√®phe (Grand Cru Class√©),4.3,35624
-coffee,94,Saint-Est√®phe (Grand Cru Class√©),4.3,35624
-cream,39,Saint-Est√®phe (Grand Cru Class√©),4.3,35624
-toast,35,Saint-Est√®phe (Grand Cru Class√©),4.3,35624
+citrus,57,Barsac (Premier Grand Cru ClassÈ),4.4,6028
+toast,19,Barsac (Premier Grand Cru ClassÈ),4.4,6028
+cream,65,Barsac (Premier Grand Cru ClassÈ),4.4,6028
+toast,19,Barsac (Premier Grand Cru ClassÈ),4.4,6028
+coffee,94,Saint-EstËphe (Grand Cru ClassÈ),4.3,35624
+toast,35,Saint-EstËphe (Grand Cru ClassÈ),4.3,35624
+coffee,94,Saint-EstËphe (Grand Cru ClassÈ),4.3,35624
+cream,39,Saint-EstËphe (Grand Cru ClassÈ),4.3,35624
+toast,35,Saint-EstËphe (Grand Cru ClassÈ),4.3,35624
 coffee,19,Brunello di Montalcino,4.5,4357
 coffee,19,Brunello di Montalcino,4.5,4357
 coffee,15,Reserve Pinotage,4.4,1891
@@ -817,31 +817,31 @@ coffee,18,Pomerol,4.4,3377
 coffee,18,Pomerol,4.4,3377
 coffee,11,VIK,4.6,8493
 coffee,11,VIK,4.6,8493
-coffee,11,Le D√©sir,4.5,1694
-coffee,11,Le D√©sir,4.5,1694
-coffee,16,Barbaresco Rabaj√†,4.3,5469
-coffee,16,Barbaresco Rabaj√†,4.3,5469
+coffee,11,Le DÈsir,4.5,1694
+coffee,11,Le DÈsir,4.5,1694
+coffee,16,Barbaresco Rabaj‡,4.3,5469
+coffee,16,Barbaresco Rabaj‡,4.3,5469
 coffee,11,Ares,4.4,1995
 coffee,11,Ares,4.4,1995
 coffee,25,Calcarole Amarone della Valpolicella Classico,4.6,2757
 coffee,25,Calcarole Amarone della Valpolicella Classico,4.6,2757
-coffee,83,Saint-√âmilion Grand Cru (Premier Grand Cru Class√©),4.4,24916
-toast,13,Saint-√âmilion Grand Cru (Premier Grand Cru Class√©),4.4,24916
-coffee,83,Saint-√âmilion Grand Cru (Premier Grand Cru Class√©),4.4,24916
-cream,26,Saint-√âmilion Grand Cru (Premier Grand Cru Class√©),4.4,24916
-toast,13,Saint-√âmilion Grand Cru (Premier Grand Cru Class√©),4.4,24916
+coffee,83,Saint-…milion Grand Cru (Premier Grand Cru ClassÈ),4.4,24916
+toast,13,Saint-…milion Grand Cru (Premier Grand Cru ClassÈ),4.4,24916
+coffee,83,Saint-…milion Grand Cru (Premier Grand Cru ClassÈ),4.4,24916
+cream,26,Saint-…milion Grand Cru (Premier Grand Cru ClassÈ),4.4,24916
+toast,13,Saint-…milion Grand Cru (Premier Grand Cru ClassÈ),4.4,24916
 coffee,14,Percarlo,4.3,4808
 coffee,14,Percarlo,4.3,4808
 green apple,16,Toscana Bianco,4.5,833
 citrus,20,Toscana Bianco,4.5,833
 cream,12,Toscana Bianco,4.5,833
-coffee,13,Ca‚Äô del Merlo Rosso Veneto,4.5,2198
-coffee,13,Ca‚Äô del Merlo Rosso Veneto,4.5,2198
-citrus,50,Les Clos Chabl√≠s Grand Cru,4.5,1750
-cream,23,Les Clos Chabl√≠s Grand Cru,4.5,1750
-green apple,11,Les Clos Chabl√≠s Grand Cru,4.5,1750
-toast,14,Nosotros Single Vineyard N√≥made,4.6,9995
-toast,14,Nosotros Single Vineyard N√≥made,4.6,9995
+coffee,13,Caí del Merlo Rosso Veneto,4.5,2198
+coffee,13,Caí del Merlo Rosso Veneto,4.5,2198
+citrus,50,Les Clos ChablÌs Grand Cru,4.5,1750
+cream,23,Les Clos ChablÌs Grand Cru,4.5,1750
+green apple,11,Les Clos ChablÌs Grand Cru,4.5,1750
+toast,14,Nosotros Single Vineyard NÛmade,4.6,9995
+toast,14,Nosotros Single Vineyard NÛmade,4.6,9995
 coffee,13,Conteisa Langhe,4.5,2295
 coffee,13,Conteisa Langhe,4.5,2295
 coffee,12,d'Alceo,4.4,3133
@@ -868,9 +868,9 @@ toast,30,N.P.U. Extra Brut Champagne (Nec Plus Ultra),4.5,1482
 citrus,30,N.P.U. Extra Brut Champagne (Nec Plus Ultra),4.5,1482
 coffee,20,Kurni Marche,4.6,10261
 coffee,20,Kurni Marche,4.6,10261
-coffee,34,C√¥tes de Bourg,4.4,8249
-coffee,34,C√¥tes de Bourg,4.4,8249
-cream,11,C√¥tes de Bourg,4.4,8249
+coffee,34,CÙtes de Bourg,4.4,8249
+coffee,34,CÙtes de Bourg,4.4,8249
+cream,11,CÙtes de Bourg,4.4,8249
 coffee,16,Scrio,4.3,2322
 coffee,16,Scrio,4.3,2322
 cream,35,Chardonnay,4.4,1031
@@ -896,11 +896,11 @@ coffee,11,Duemani Cabernet Franc,4.4,2339
 coffee,11,Duemani Cabernet Franc,4.4,2339
 coffee,13,Ai Suma Barbera d'Asti,4.4,3012
 coffee,13,Ai Suma Barbera d'Asti,4.4,3012
-citrus,38,Scharzhofberger Riesling Sp√§tlese,4.4,1564
-citrus,44,Puligny-Montrachet Enseign√®res,4.3,941
-cream,12,Puligny-Montrachet Enseign√®res,4.3,941
-toast,11,Puligny-Montrachet Enseign√®res,4.3,941
-toast,11,Puligny-Montrachet Enseign√®res,4.3,941
+citrus,38,Scharzhofberger Riesling Sp‰tlese,4.4,1564
+citrus,44,Puligny-Montrachet EnseignËres,4.3,941
+cream,12,Puligny-Montrachet EnseignËres,4.3,941
+toast,11,Puligny-Montrachet EnseignËres,4.3,941
+toast,11,Puligny-Montrachet EnseignËres,4.3,941
 coffee,31,Solare Toscana,4.2,4961
 coffee,31,Solare Toscana,4.2,4961
 citrus,93,Pur Sang,4.3,3634
@@ -908,8 +908,8 @@ green apple,29,Pur Sang,4.3,3634
 cream,23,Pur Sang,4.3,3634
 coffee,12,Blueline Estate Cabernet Sauvignon,4.5,1321
 coffee,12,Blueline Estate Cabernet Sauvignon,4.5,1321
-citrus,25,Pessac-L√©ognan Blanc (Grand Cru Class√© de Graves),4.3,1182
-citrus,13,Meursault 1er Cru 'Les Genevri√®res',4.3,606
+citrus,25,Pessac-LÈognan Blanc (Grand Cru ClassÈ de Graves),4.3,1182
+citrus,13,Meursault 1er Cru 'Les GenevriËres',4.3,606
 coffee,13,Tinto,4.4,2511
 coffee,13,Tinto,4.4,2511
 cream,14,Tinto,4.4,2511
@@ -921,32 +921,32 @@ toast,13,Chevalier-Montrachet Grand Cru Blanc,4.4,1283
 toast,13,Chevalier-Montrachet Grand Cru Blanc,4.4,1283
 toast,13,Nuits-Saint-Georges 1er Cru Les Damodes,4.1,793
 toast,13,Nuits-Saint-Georges 1er Cru Les Damodes,4.1,793
-cream,378,Brut Cuv√©e Champagne Ros√©,4.4,36681
-toast,251,Brut Cuv√©e Champagne Ros√©,4.4,36681
-citrus,436,Brut Cuv√©e Champagne Ros√©,4.4,36681
-toast,251,Brut Cuv√©e Champagne Ros√©,4.4,36681
-green apple,66,Brut Cuv√©e Champagne Ros√©,4.4,36681
-citrus,441,Brut Ros√© Champagne,4.4,23241
-cream,364,Brut Ros√© Champagne,4.4,23241
-toast,190,Brut Ros√© Champagne,4.4,23241
-toast,190,Brut Ros√© Champagne,4.4,23241
-green apple,91,Brut Ros√© Champagne,4.4,23241
-cream,222,Brut Ros√© Champagne,4.4,21147
-toast,158,Brut Ros√© Champagne,4.4,21147
-citrus,242,Brut Ros√© Champagne,4.4,21147
-toast,158,Brut Ros√© Champagne,4.4,21147
-green apple,29,Brut Ros√© Champagne,4.4,21147
-coffee,16,Sauternes (Premier Grand Cru Class√©),4.4,19239
-toast,44,Sauternes (Premier Grand Cru Class√©),4.4,19239
-coffee,16,Sauternes (Premier Grand Cru Class√©),4.4,19239
-citrus,134,Sauternes (Premier Grand Cru Class√©),4.4,19239
-cream,126,Sauternes (Premier Grand Cru Class√©),4.4,19239
-toast,44,Sauternes (Premier Grand Cru Class√©),4.4,19239
-coffee,35,Pavillon Rouge du Ch√¢teau Margaux,4.4,16401
-toast,13,Pavillon Rouge du Ch√¢teau Margaux,4.4,16401
-coffee,35,Pavillon Rouge du Ch√¢teau Margaux,4.4,16401
-cream,19,Pavillon Rouge du Ch√¢teau Margaux,4.4,16401
-toast,13,Pavillon Rouge du Ch√¢teau Margaux,4.4,16401
+cream,378,Brut CuvÈe Champagne RosÈ,4.4,36681
+toast,251,Brut CuvÈe Champagne RosÈ,4.4,36681
+citrus,436,Brut CuvÈe Champagne RosÈ,4.4,36681
+toast,251,Brut CuvÈe Champagne RosÈ,4.4,36681
+green apple,66,Brut CuvÈe Champagne RosÈ,4.4,36681
+citrus,441,Brut RosÈ Champagne,4.4,23241
+cream,364,Brut RosÈ Champagne,4.4,23241
+toast,190,Brut RosÈ Champagne,4.4,23241
+toast,190,Brut RosÈ Champagne,4.4,23241
+green apple,91,Brut RosÈ Champagne,4.4,23241
+cream,222,Brut RosÈ Champagne,4.4,21147
+toast,158,Brut RosÈ Champagne,4.4,21147
+citrus,242,Brut RosÈ Champagne,4.4,21147
+toast,158,Brut RosÈ Champagne,4.4,21147
+green apple,29,Brut RosÈ Champagne,4.4,21147
+coffee,16,Sauternes (Premier Grand Cru ClassÈ),4.4,19239
+toast,44,Sauternes (Premier Grand Cru ClassÈ),4.4,19239
+coffee,16,Sauternes (Premier Grand Cru ClassÈ),4.4,19239
+citrus,134,Sauternes (Premier Grand Cru ClassÈ),4.4,19239
+cream,126,Sauternes (Premier Grand Cru ClassÈ),4.4,19239
+toast,44,Sauternes (Premier Grand Cru ClassÈ),4.4,19239
+coffee,35,Pavillon Rouge du Ch‚teau Margaux,4.4,16401
+toast,13,Pavillon Rouge du Ch‚teau Margaux,4.4,16401
+coffee,35,Pavillon Rouge du Ch‚teau Margaux,4.4,16401
+cream,19,Pavillon Rouge du Ch‚teau Margaux,4.4,16401
+toast,13,Pavillon Rouge du Ch‚teau Margaux,4.4,16401
 coffee,62,Paleo Rosso,4.4,10940
 coffee,62,Paleo Rosso,4.4,10940
 cream,27,Paleo Rosso,4.4,10940
@@ -989,8 +989,8 @@ cream,54,Brut Champagne (Gold),4.4,3874
 toast,20,Brut Champagne (Gold),4.4,3874
 coffee,14,Chateau Buena Vista Cabernet Sauvignon Napa Valley,4.3,13415
 coffee,14,Chateau Buena Vista Cabernet Sauvignon Napa Valley,4.3,13415
-coffee,15,Saint-√âmilion Grand Cru (Grand Cru Class√©),4.4,3498
-coffee,15,Saint-√âmilion Grand Cru (Grand Cru Class√©),4.4,3498
+coffee,15,Saint-…milion Grand Cru (Grand Cru ClassÈ),4.4,3498
+coffee,15,Saint-…milion Grand Cru (Grand Cru ClassÈ),4.4,3498
 coffee,88,Amarone della Valpolicella Classico,4.4,48329
 toast,14,Amarone della Valpolicella Classico,4.4,48329
 coffee,88,Amarone della Valpolicella Classico,4.4,48329
@@ -1005,10 +1005,10 @@ toast,14,Brunello di Montalcino,4.4,25989
 citrus,11,Brunello di Montalcino,4.4,25989
 coffee,19,Amarone della Valpolicella,4.4,2680
 coffee,19,Amarone della Valpolicella,4.4,2680
-cream,38,Vieilles Vignes Ch√¢teauneuf-du-Pape Blanc,4.4,2587
-toast,11,Vieilles Vignes Ch√¢teauneuf-du-Pape Blanc,4.4,2587
-toast,11,Vieilles Vignes Ch√¢teauneuf-du-Pape Blanc,4.4,2587
-citrus,17,Vieilles Vignes Ch√¢teauneuf-du-Pape Blanc,4.4,2587
+cream,38,Vieilles Vignes Ch‚teauneuf-du-Pape Blanc,4.4,2587
+toast,11,Vieilles Vignes Ch‚teauneuf-du-Pape Blanc,4.4,2587
+toast,11,Vieilles Vignes Ch‚teauneuf-du-Pape Blanc,4.4,2587
+citrus,17,Vieilles Vignes Ch‚teauneuf-du-Pape Blanc,4.4,2587
 coffee,13,Malbec,4.2,33640
 coffee,13,Malbec,4.2,33640
 cream,35,Corton-Charlemagne Grand Cru Blanc,4.4,2453
@@ -1016,12 +1016,12 @@ toast,20,Corton-Charlemagne Grand Cru Blanc,4.4,2453
 toast,20,Corton-Charlemagne Grand Cru Blanc,4.4,2453
 citrus,47,Corton-Charlemagne Grand Cru Blanc,4.4,2453
 green apple,19,Corton-Charlemagne Grand Cru Blanc,4.4,2453
-coffee,92,Ch√¢teauneuf-du-Pape,4.4,38998
-toast,41,Ch√¢teauneuf-du-Pape,4.4,38998
-coffee,92,Ch√¢teauneuf-du-Pape,4.4,38998
-cream,49,Ch√¢teauneuf-du-Pape,4.4,38998
-toast,41,Ch√¢teauneuf-du-Pape,4.4,38998
-citrus,11,Ch√¢teauneuf-du-Pape,4.4,38998
+coffee,92,Ch‚teauneuf-du-Pape,4.4,38998
+toast,41,Ch‚teauneuf-du-Pape,4.4,38998
+coffee,92,Ch‚teauneuf-du-Pape,4.4,38998
+cream,49,Ch‚teauneuf-du-Pape,4.4,38998
+toast,41,Ch‚teauneuf-du-Pape,4.4,38998
+citrus,11,Ch‚teauneuf-du-Pape,4.4,38998
 coffee,44,Pieve Santa Restituta Brunello di Montalcino,4.4,21867
 toast,15,Pieve Santa Restituta Brunello di Montalcino,4.4,21867
 coffee,44,Pieve Santa Restituta Brunello di Montalcino,4.4,21867
@@ -1042,15 +1042,15 @@ coffee,14,Belle Epoque Brut Champagne,4.5,20992
 coffee,12,Guerriero della Terra,4.4,10185
 coffee,12,Guerriero della Terra,4.4,10185
 cream,12,Guerriero della Terra,4.4,10185
-coffee,119,Saint-Julien (Grand Cru Class√©),4.3,32627
-toast,30,Saint-Julien (Grand Cru Class√©),4.3,32627
-coffee,119,Saint-Julien (Grand Cru Class√©),4.3,32627
-cream,42,Saint-Julien (Grand Cru Class√©),4.3,32627
-toast,30,Saint-Julien (Grand Cru Class√©),4.3,32627
-cream,47,Ros√© Brut Champagne Grand Cru 'Ambonnay',4.4,1782
-toast,26,Ros√© Brut Champagne Grand Cru 'Ambonnay',4.4,1782
-citrus,42,Ros√© Brut Champagne Grand Cru 'Ambonnay',4.4,1782
-toast,26,Ros√© Brut Champagne Grand Cru 'Ambonnay',4.4,1782
+coffee,119,Saint-Julien (Grand Cru ClassÈ),4.3,32627
+toast,30,Saint-Julien (Grand Cru ClassÈ),4.3,32627
+coffee,119,Saint-Julien (Grand Cru ClassÈ),4.3,32627
+cream,42,Saint-Julien (Grand Cru ClassÈ),4.3,32627
+toast,30,Saint-Julien (Grand Cru ClassÈ),4.3,32627
+cream,47,RosÈ Brut Champagne Grand Cru 'Ambonnay',4.4,1782
+toast,26,RosÈ Brut Champagne Grand Cru 'Ambonnay',4.4,1782
+citrus,42,RosÈ Brut Champagne Grand Cru 'Ambonnay',4.4,1782
+toast,26,RosÈ Brut Champagne Grand Cru 'Ambonnay',4.4,1782
 coffee,31,Il Pino di Biserno,4.3,17566
 coffee,31,Il Pino di Biserno,4.3,17566
 cream,19,Il Pino di Biserno,4.3,17566
@@ -1061,12 +1061,12 @@ cream,41,Roda I Reserva Rioja,4.4,22749
 toast,20,Roda I Reserva Rioja,4.4,22749
 cream,14,Chassagne-Montrachet Premier Cru 'Morgeot' Blanc,4.4,1701
 citrus,21,Chassagne-Montrachet Premier Cru 'Morgeot' Blanc,4.4,1701
-coffee,117,Pessac-L√©ognan (Grand Cru Class√© de Graves),4.4,27316
-toast,36,Pessac-L√©ognan (Grand Cru Class√© de Graves),4.4,27316
-coffee,117,Pessac-L√©ognan (Grand Cru Class√© de Graves),4.4,27316
-cream,53,Pessac-L√©ognan (Grand Cru Class√© de Graves),4.4,27316
-toast,36,Pessac-L√©ognan (Grand Cru Class√© de Graves),4.4,27316
-citrus,33,Pessac-L√©ognan (Grand Cru Class√© de Graves),4.4,27316
+coffee,117,Pessac-LÈognan (Grand Cru ClassÈ de Graves),4.4,27316
+toast,36,Pessac-LÈognan (Grand Cru ClassÈ de Graves),4.4,27316
+coffee,117,Pessac-LÈognan (Grand Cru ClassÈ de Graves),4.4,27316
+cream,53,Pessac-LÈognan (Grand Cru ClassÈ de Graves),4.4,27316
+toast,36,Pessac-LÈognan (Grand Cru ClassÈ de Graves),4.4,27316
+citrus,33,Pessac-LÈognan (Grand Cru ClassÈ de Graves),4.4,27316
 coffee,126,Amarone della Valpolicella Classico,4.3,77515
 toast,25,Amarone della Valpolicella Classico,4.3,77515
 coffee,126,Amarone della Valpolicella Classico,4.3,77515
@@ -1078,11 +1078,11 @@ toast,15,Amarone della Valpolicella Classico,4.3,27794
 coffee,87,Amarone della Valpolicella Classico,4.3,27794
 cream,21,Amarone della Valpolicella Classico,4.3,27794
 toast,15,Amarone della Valpolicella Classico,4.3,27794
-coffee,52,Mac√°n Cl√°sico,4.3,16525
-toast,15,Mac√°n Cl√°sico,4.3,16525
-coffee,52,Mac√°n Cl√°sico,4.3,16525
-cream,11,Mac√°n Cl√°sico,4.3,16525
-toast,15,Mac√°n Cl√°sico,4.3,16525
+coffee,52,Mac·n Cl·sico,4.3,16525
+toast,15,Mac·n Cl·sico,4.3,16525
+coffee,52,Mac·n Cl·sico,4.3,16525
+cream,11,Mac·n Cl·sico,4.3,16525
+toast,15,Mac·n Cl·sico,4.3,16525
 coffee,46,Eight Years In The Desert,4.4,27195
 toast,22,Eight Years In The Desert,4.4,27195
 coffee,46,Eight Years In The Desert,4.4,27195
@@ -1095,12 +1095,12 @@ toast,28,Avizoise Blanc de Blancs Extra Brut Champagne Grand Cru 'Avize',4.4,127
 toast,28,Avizoise Blanc de Blancs Extra Brut Champagne Grand Cru 'Avize',4.4,1278
 green apple,20,Avizoise Blanc de Blancs Extra Brut Champagne Grand Cru 'Avize',4.4,1278
 citrus,26,Avizoise Blanc de Blancs Extra Brut Champagne Grand Cru 'Avize',4.4,1278
-coffee,13,Sauternes (Premier Grand Cru Class√©),4.3,17293
-citrus,133,Sauternes (Premier Grand Cru Class√©),4.3,17293
-toast,37,Sauternes (Premier Grand Cru Class√©),4.3,17293
-coffee,13,Sauternes (Premier Grand Cru Class√©),4.3,17293
-cream,151,Sauternes (Premier Grand Cru Class√©),4.3,17293
-toast,37,Sauternes (Premier Grand Cru Class√©),4.3,17293
+coffee,13,Sauternes (Premier Grand Cru ClassÈ),4.3,17293
+citrus,133,Sauternes (Premier Grand Cru ClassÈ),4.3,17293
+toast,37,Sauternes (Premier Grand Cru ClassÈ),4.3,17293
+coffee,13,Sauternes (Premier Grand Cru ClassÈ),4.3,17293
+cream,151,Sauternes (Premier Grand Cru ClassÈ),4.3,17293
+toast,37,Sauternes (Premier Grand Cru ClassÈ),4.3,17293
 coffee,101,Le Serre Nuove,4.3,50411
 toast,24,Le Serre Nuove,4.3,50411
 coffee,101,Le Serre Nuove,4.3,50411
@@ -1112,8 +1112,8 @@ cream,29,St. Henri Shiraz,4.4,17326
 coffee,23,Bolgheri Superiore,4.3,14242
 coffee,23,Bolgheri Superiore,4.3,14242
 cream,12,Bolgheri Superiore,4.3,14242
-coffee,16,Campo Le√≥n Amarone della Valpolicella,4.4,7778
-coffee,16,Campo Le√≥n Amarone della Valpolicella,4.4,7778
+coffee,16,Campo LeÛn Amarone della Valpolicella,4.4,7778
+coffee,16,Campo LeÛn Amarone della Valpolicella,4.4,7778
 coffee,35,Bolgheri Superiore Sondraia,4.2,12843
 coffee,35,Bolgheri Superiore Sondraia,4.2,12843
 cream,16,Puligny-Montrachet Premier Cru Champ-Canet,4.4,1020
@@ -1145,8 +1145,8 @@ coffee,17,Domus Aurea Cabernet Sauvignon,4.4,9603
 coffee,17,Domus Aurea Cabernet Sauvignon,4.4,9603
 coffee,17,Gran Reserva Rioja (Finca Ygay),4.3,9595
 coffee,17,Gran Reserva Rioja (Finca Ygay),4.3,9595
-citrus,21,V√©nus Blanc de Blancs Brut Nature Champagne Grand Cru 'Avize',4.4,794
-green apple,13,V√©nus Blanc de Blancs Brut Nature Champagne Grand Cru 'Avize',4.4,794
+citrus,21,VÈnus Blanc de Blancs Brut Nature Champagne Grand Cru 'Avize',4.4,794
+green apple,13,VÈnus Blanc de Blancs Brut Nature Champagne Grand Cru 'Avize',4.4,794
 citrus,49,Ribolla Gialla,4.3,7018
 cream,14,Ribolla Gialla,4.3,7018
 citrus,24,Tessons Clos de Mon Plaisir Meursault,4.4,761
@@ -1154,16 +1154,16 @@ coffee,22,Mille E Una Notte,4.3,15865
 coffee,22,Mille E Una Notte,4.3,15865
 cream,11,Mille E Una Notte,4.3,15865
 citrus,12,Corton-Charlemagne Grand Cru,4.4,708
-green apple,12,5 Puttonyos Asz√∫ (Blue Label),4.4,11106
-citrus,118,5 Puttonyos Asz√∫ (Blue Label),4.4,11106
-toast,30,5 Puttonyos Asz√∫ (Blue Label),4.4,11106
-cream,68,5 Puttonyos Asz√∫ (Blue Label),4.4,11106
-toast,30,5 Puttonyos Asz√∫ (Blue Label),4.4,11106
-coffee,154,Pauillac (Grand Cru Class√©),4.4,39731
-toast,37,Pauillac (Grand Cru Class√©),4.4,39731
-coffee,154,Pauillac (Grand Cru Class√©),4.4,39731
-cream,46,Pauillac (Grand Cru Class√©),4.4,39731
-toast,37,Pauillac (Grand Cru Class√©),4.4,39731
+green apple,12,5 Puttonyos Asz˙ (Blue Label),4.4,11106
+citrus,118,5 Puttonyos Asz˙ (Blue Label),4.4,11106
+toast,30,5 Puttonyos Asz˙ (Blue Label),4.4,11106
+cream,68,5 Puttonyos Asz˙ (Blue Label),4.4,11106
+toast,30,5 Puttonyos Asz˙ (Blue Label),4.4,11106
+coffee,154,Pauillac (Grand Cru ClassÈ),4.4,39731
+toast,37,Pauillac (Grand Cru ClassÈ),4.4,39731
+coffee,154,Pauillac (Grand Cru ClassÈ),4.4,39731
+cream,46,Pauillac (Grand Cru ClassÈ),4.4,39731
+toast,37,Pauillac (Grand Cru ClassÈ),4.4,39731
 coffee,21,Toscana I Sodi di San Niccolo,4.4,8853
 coffee,21,Toscana I Sodi di San Niccolo,4.4,8853
 coffee,86,Malleolus,4.3,34630
@@ -1171,12 +1171,12 @@ toast,26,Malleolus,4.3,34630
 coffee,86,Malleolus,4.3,34630
 cream,12,Malleolus,4.3,34630
 toast,26,Malleolus,4.3,34630
-cream,22,Cream Tradici√≥n Vos 20 Years,4.4,623
-coffee,37,Saint-√âmilion Grand Cru (Premier Grand Cru Class√©),4.4,6879
-toast,12,Saint-√âmilion Grand Cru (Premier Grand Cru Class√©),4.4,6879
-coffee,37,Saint-√âmilion Grand Cru (Premier Grand Cru Class√©),4.4,6879
-cream,18,Saint-√âmilion Grand Cru (Premier Grand Cru Class√©),4.4,6879
-toast,12,Saint-√âmilion Grand Cru (Premier Grand Cru Class√©),4.4,6879
+cream,22,Cream TradiciÛn Vos 20 Years,4.4,623
+coffee,37,Saint-…milion Grand Cru (Premier Grand Cru ClassÈ),4.4,6879
+toast,12,Saint-…milion Grand Cru (Premier Grand Cru ClassÈ),4.4,6879
+coffee,37,Saint-…milion Grand Cru (Premier Grand Cru ClassÈ),4.4,6879
+cream,18,Saint-…milion Grand Cru (Premier Grand Cru ClassÈ),4.4,6879
+toast,12,Saint-…milion Grand Cru (Premier Grand Cru ClassÈ),4.4,6879
 coffee,94,Pomerol,4.2,11645
 toast,31,Pomerol,4.2,11645
 coffee,94,Pomerol,4.2,11645
@@ -1223,15 +1223,15 @@ toast,11,Gaudium,4.3,7414
 coffee,32,Gaudium,4.3,7414
 cream,11,Gaudium,4.3,7414
 toast,11,Gaudium,4.3,7414
-coffee,46,Saint-√âmilion Grand Cru (Premier Grand Cru Class√©),4.3,10699
-toast,14,Saint-√âmilion Grand Cru (Premier Grand Cru Class√©),4.3,10699
-coffee,46,Saint-√âmilion Grand Cru (Premier Grand Cru Class√©),4.3,10699
-cream,22,Saint-√âmilion Grand Cru (Premier Grand Cru Class√©),4.3,10699
-toast,14,Saint-√âmilion Grand Cru (Premier Grand Cru Class√©),4.3,10699
+coffee,46,Saint-…milion Grand Cru (Premier Grand Cru ClassÈ),4.3,10699
+toast,14,Saint-…milion Grand Cru (Premier Grand Cru ClassÈ),4.3,10699
+coffee,46,Saint-…milion Grand Cru (Premier Grand Cru ClassÈ),4.3,10699
+cream,22,Saint-…milion Grand Cru (Premier Grand Cru ClassÈ),4.3,10699
+toast,14,Saint-…milion Grand Cru (Premier Grand Cru ClassÈ),4.3,10699
 coffee,14,Gold Series Syrah,4.4,477
 coffee,14,Gold Series Syrah,4.4,477
-green apple,17,Puligny-Montrachet Premier Cru ' Clos de la Truffi√®re',4.4,475
-citrus,23,Puligny-Montrachet Premier Cru ' Clos de la Truffi√®re',4.4,475
+green apple,17,Puligny-Montrachet Premier Cru ' Clos de la TruffiËre',4.4,475
+citrus,23,Puligny-Montrachet Premier Cru ' Clos de la TruffiËre',4.4,475
 coffee,12,Kevin Arnold Shiraz,4.2,6987
 coffee,12,Kevin Arnold Shiraz,4.2,6987
 coffee,16,Toscana,4.2,7434
@@ -1245,11 +1245,11 @@ coffee,16,Brunello di Montalcino,4.3,8356
 coffee,16,Brunello di Montalcino,4.3,8356
 toast,13,Puligny-Montrachet 1er Cru 'La Garenne',4.4,442
 toast,13,Puligny-Montrachet 1er Cru 'La Garenne',4.4,442
-coffee,77,Margaux (Grand Cru Class√©),4.2,15699
-toast,26,Margaux (Grand Cru Class√©),4.2,15699
-coffee,77,Margaux (Grand Cru Class√©),4.2,15699
-cream,22,Margaux (Grand Cru Class√©),4.2,15699
-toast,26,Margaux (Grand Cru Class√©),4.2,15699
+coffee,77,Margaux (Grand Cru ClassÈ),4.2,15699
+toast,26,Margaux (Grand Cru ClassÈ),4.2,15699
+coffee,77,Margaux (Grand Cru ClassÈ),4.2,15699
+cream,22,Margaux (Grand Cru ClassÈ),4.2,15699
+toast,26,Margaux (Grand Cru ClassÈ),4.2,15699
 coffee,20,Cosimo Varvaglione Collezione Privata Primitivo di Manduria,4.5,5016
 coffee,20,Cosimo Varvaglione Collezione Privata Primitivo di Manduria,4.5,5016
 cream,197,Les Noisetiers,4.4,7035
@@ -1257,8 +1257,8 @@ toast,37,Les Noisetiers,4.4,7035
 green apple,44,Les Noisetiers,4.4,7035
 citrus,174,Les Noisetiers,4.4,7035
 toast,37,Les Noisetiers,4.4,7035
-coffee,16,V√ºrs√π Barbaresco Starderi,4.4,4414
-coffee,16,V√ºrs√π Barbaresco Starderi,4.4,4414
+coffee,16,V¸rs˘ Barbaresco Starderi,4.4,4414
+coffee,16,V¸rs˘ Barbaresco Starderi,4.4,4414
 coffee,22,Relentless,4.5,6633
 coffee,22,Relentless,4.5,6633
 cream,11,Relentless,4.5,6633
@@ -1281,8 +1281,8 @@ toast,24,Victorino,4.3,9294
 coffee,39,Victorino,4.3,9294
 cream,15,Victorino,4.3,9294
 toast,24,Victorino,4.3,9294
-coffee,26,C√¥te-R√¥tie,4.4,7177
-coffee,26,C√¥te-R√¥tie,4.4,7177
+coffee,26,CÙte-RÙtie,4.4,7177
+coffee,26,CÙte-RÙtie,4.4,7177
 coffee,27,Bricco dell'Uccellone Barbera d'Asti,4.3,17625
 toast,11,Bricco dell'Uccellone Barbera d'Asti,4.3,17625
 coffee,27,Bricco dell'Uccellone Barbera d'Asti,4.3,17625
@@ -1298,44 +1298,44 @@ coffee,23,Mai The First A.Montes Malbec,4.4,6379
 coffee,23,Mai The First A.Montes Malbec,4.4,6379
 coffee,12,Perpetual,4.3,3809
 coffee,12,Perpetual,4.3,3809
-toast,57,Capellan√≠a Reserva,4.1,7314
-cream,131,Capellan√≠a Reserva,4.1,7314
-toast,57,Capellan√≠a Reserva,4.1,7314
-green apple,31,Capellan√≠a Reserva,4.1,7314
-citrus,157,Capellan√≠a Reserva,4.1,7314
+toast,57,CapellanÌa Reserva,4.1,7314
+cream,131,CapellanÌa Reserva,4.1,7314
+toast,57,CapellanÌa Reserva,4.1,7314
+green apple,31,CapellanÌa Reserva,4.1,7314
+citrus,157,CapellanÌa Reserva,4.1,7314
 coffee,13,Brunello di Montalcino,4.3,6683
 coffee,13,Brunello di Montalcino,4.3,6683
-toast,159,Cuv√©e Nicolas Fran√ßois Billecart Brut Champagne,4.5,6228
-green apple,53,Cuv√©e Nicolas Fran√ßois Billecart Brut Champagne,4.5,6228
-cream,134,Cuv√©e Nicolas Fran√ßois Billecart Brut Champagne,4.5,6228
-toast,159,Cuv√©e Nicolas Fran√ßois Billecart Brut Champagne,4.5,6228
-citrus,173,Cuv√©e Nicolas Fran√ßois Billecart Brut Champagne,4.5,6228
+toast,159,CuvÈe Nicolas FranÁois Billecart Brut Champagne,4.5,6228
+green apple,53,CuvÈe Nicolas FranÁois Billecart Brut Champagne,4.5,6228
+cream,134,CuvÈe Nicolas FranÁois Billecart Brut Champagne,4.5,6228
+toast,159,CuvÈe Nicolas FranÁois Billecart Brut Champagne,4.5,6228
+citrus,173,CuvÈe Nicolas FranÁois Billecart Brut Champagne,4.5,6228
 coffee,30,Bolgheri Superiore,4.4,8918
 coffee,30,Bolgheri Superiore,4.4,8918
 coffee,13,Toscana Camartina,4.3,3673
 coffee,13,Toscana Camartina,4.3,3673
-coffee,80,Saint-√âmilion Grand Cru (Premier Grand Cru Class√©),4.3,17090
-toast,15,Saint-√âmilion Grand Cru (Premier Grand Cru Class√©),4.3,17090
-coffee,80,Saint-√âmilion Grand Cru (Premier Grand Cru Class√©),4.3,17090
-cream,33,Saint-√âmilion Grand Cru (Premier Grand Cru Class√©),4.3,17090
-toast,15,Saint-√âmilion Grand Cru (Premier Grand Cru Class√©),4.3,17090
-coffee,153,Saint-Julien (Grand Cru Class√©),4.3,37174
-toast,43,Saint-Julien (Grand Cru Class√©),4.3,37174
-coffee,153,Saint-Julien (Grand Cru Class√©),4.3,37174
-cream,56,Saint-Julien (Grand Cru Class√©),4.3,37174
-toast,43,Saint-Julien (Grand Cru Class√©),4.3,37174
-coffee,105,Pessac-L√©ognan (Grand Cru Class√© de Graves),4.3,25444
-toast,31,Pessac-L√©ognan (Grand Cru Class√© de Graves),4.3,25444
-coffee,105,Pessac-L√©ognan (Grand Cru Class√© de Graves),4.3,25444
-cream,70,Pessac-L√©ognan (Grand Cru Class√© de Graves),4.3,25444
-toast,31,Pessac-L√©ognan (Grand Cru Class√© de Graves),4.3,25444
-citrus,29,Pessac-L√©ognan (Grand Cru Class√© de Graves),4.3,25444
+coffee,80,Saint-…milion Grand Cru (Premier Grand Cru ClassÈ),4.3,17090
+toast,15,Saint-…milion Grand Cru (Premier Grand Cru ClassÈ),4.3,17090
+coffee,80,Saint-…milion Grand Cru (Premier Grand Cru ClassÈ),4.3,17090
+cream,33,Saint-…milion Grand Cru (Premier Grand Cru ClassÈ),4.3,17090
+toast,15,Saint-…milion Grand Cru (Premier Grand Cru ClassÈ),4.3,17090
+coffee,153,Saint-Julien (Grand Cru ClassÈ),4.3,37174
+toast,43,Saint-Julien (Grand Cru ClassÈ),4.3,37174
+coffee,153,Saint-Julien (Grand Cru ClassÈ),4.3,37174
+cream,56,Saint-Julien (Grand Cru ClassÈ),4.3,37174
+toast,43,Saint-Julien (Grand Cru ClassÈ),4.3,37174
+coffee,105,Pessac-LÈognan (Grand Cru ClassÈ de Graves),4.3,25444
+toast,31,Pessac-LÈognan (Grand Cru ClassÈ de Graves),4.3,25444
+coffee,105,Pessac-LÈognan (Grand Cru ClassÈ de Graves),4.3,25444
+cream,70,Pessac-LÈognan (Grand Cru ClassÈ de Graves),4.3,25444
+toast,31,Pessac-LÈognan (Grand Cru ClassÈ de Graves),4.3,25444
+citrus,29,Pessac-LÈognan (Grand Cru ClassÈ de Graves),4.3,25444
 citrus,17,Hyde Vineyard Chardonnay,4.4,265
-green apple,14,Clos de la Coul√©e de Serrant,4.3,8365
-citrus,65,Clos de la Coul√©e de Serrant,4.3,8365
-toast,12,Clos de la Coul√©e de Serrant,4.3,8365
-cream,45,Clos de la Coul√©e de Serrant,4.3,8365
-toast,12,Clos de la Coul√©e de Serrant,4.3,8365
+green apple,14,Clos de la CoulÈe de Serrant,4.3,8365
+citrus,65,Clos de la CoulÈe de Serrant,4.3,8365
+toast,12,Clos de la CoulÈe de Serrant,4.3,8365
+cream,45,Clos de la CoulÈe de Serrant,4.3,8365
+toast,12,Clos de la CoulÈe de Serrant,4.3,8365
 coffee,11,Nine Popes,4.3,2118
 toast,14,Nine Popes,4.3,2118
 coffee,11,Nine Popes,4.3,2118
@@ -1346,9 +1346,9 @@ citrus,118,Puligny-Montrachet,4.3,4548
 green apple,15,Puligny-Montrachet,4.3,4548
 toast,27,Puligny-Montrachet,4.3,4548
 cream,11,Cinque Autoctoni Collection Limited Release,4.4,4281
-citrus,118,Baron de L Pouilly-Fum√©,4.4,9002
-green apple,48,Baron de L Pouilly-Fum√©,4.4,9002
-cream,19,Baron de L Pouilly-Fum√©,4.4,9002
+citrus,118,Baron de L Pouilly-FumÈ,4.4,9002
+green apple,48,Baron de L Pouilly-FumÈ,4.4,9002
+cream,19,Baron de L Pouilly-FumÈ,4.4,9002
 coffee,45,Cepparello Red,4.3,12191
 toast,11,Cepparello Red,4.3,12191
 coffee,45,Cepparello Red,4.3,12191
@@ -1356,29 +1356,29 @@ cream,16,Cepparello Red,4.3,12191
 toast,11,Cepparello Red,4.3,12191
 cream,17,Vieilles Vignes Meursault,4.2,1426
 citrus,33,Vieilles Vignes Meursault,4.2,1426
-toast,160,Blanc des Mill√©naires,4.6,5581
-coffee,27,Blanc des Mill√©naires,4.6,5581
-coffee,27,Blanc des Mill√©naires,4.6,5581
-cream,149,Blanc des Mill√©naires,4.6,5581
-toast,160,Blanc des Mill√©naires,4.6,5581
-citrus,181,Blanc des Mill√©naires,4.6,5581
-green apple,66,Blanc des Mill√©naires,4.6,5581
-coffee,13,Barolo Prap√≤,4.3,2450
-coffee,13,Barolo Prap√≤,4.3,2450
+toast,160,Blanc des MillÈnaires,4.6,5581
+coffee,27,Blanc des MillÈnaires,4.6,5581
+coffee,27,Blanc des MillÈnaires,4.6,5581
+cream,149,Blanc des MillÈnaires,4.6,5581
+toast,160,Blanc des MillÈnaires,4.6,5581
+citrus,181,Blanc des MillÈnaires,4.6,5581
+green apple,66,Blanc des MillÈnaires,4.6,5581
+coffee,13,Barolo PrapÚ,4.3,2450
+coffee,13,Barolo PrapÚ,4.3,2450
 green apple,12,Aile d'Argent Blanc Bordeaux,4.2,4790
 citrus,94,Aile d'Argent Blanc Bordeaux,4.2,4790
 cream,37,Aile d'Argent Blanc Bordeaux,4.2,4790
 coffee,16,Capitel Monte Olmi Amarone della Valpolicella Classico Riserva,4.3,4229
 coffee,16,Capitel Monte Olmi Amarone della Valpolicella Classico Riserva,4.3,4229
-citrus,41,Tokaji Asz√∫ 3 Puttonyos,4.3,7080
-cream,18,Tokaji Asz√∫ 3 Puttonyos,4.3,7080
+citrus,41,Tokaji Asz˙ 3 Puttonyos,4.3,7080
+cream,18,Tokaji Asz˙ 3 Puttonyos,4.3,7080
 coffee,15,Vigna Cappella di S. Stefano Perno Barolo,4.4,2514
 coffee,15,Vigna Cappella di S. Stefano Perno Barolo,4.4,2514
 coffee,12,Barolo Ciabot Mentin Ginestra,4.3,3525
 coffee,12,Barolo Ciabot Mentin Ginestra,4.3,3525
-citrus,27,Asz√∫ 6 puttonyos,4.5,2450
-cream,17,Asz√∫ 6 puttonyos,4.5,2450
-citrus,17,Gew√ºrztraminer Lunare,4.3,2732
+citrus,27,Asz˙ 6 puttonyos,4.5,2450
+cream,17,Asz˙ 6 puttonyos,4.5,2450
+citrus,17,Gew¸rztraminer Lunare,4.3,2732
 coffee,12,Amarone della Valpolicella,4.3,4689
 coffee,12,Amarone della Valpolicella,4.3,4689
 coffee,17,Giramonte Toscana,4.4,1678
@@ -1400,12 +1400,12 @@ toast,11,Trebbiano d'Abruzzo,4.4,5834
 coffee,21,Trebbiano d'Abruzzo,4.4,5834
 cream,27,Trebbiano d'Abruzzo,4.4,5834
 toast,11,Trebbiano d'Abruzzo,4.4,5834
-coffee,32,La Chapelle de La Mission Haut-Brion Pessac-L√©ognan,4.2,6754
-coffee,32,La Chapelle de La Mission Haut-Brion Pessac-L√©ognan,4.2,6754
+coffee,32,La Chapelle de La Mission Haut-Brion Pessac-LÈognan,4.2,6754
+coffee,32,La Chapelle de La Mission Haut-Brion Pessac-LÈognan,4.2,6754
 coffee,15,Il Bricco Barbaresco,4.3,2299
 coffee,15,Il Bricco Barbaresco,4.3,2299
-toast,18,Cuv√©e Risleus Brut Champagne Premier Cru,4.4,415
-toast,18,Cuv√©e Risleus Brut Champagne Premier Cru,4.4,415
+toast,18,CuvÈe Risleus Brut Champagne Premier Cru,4.4,415
+toast,18,CuvÈe Risleus Brut Champagne Premier Cru,4.4,415
 citrus,34,Giallo d'Arles Greco di Tufo,4.3,3274
 coffee,14,Brunello di Montalcino,4.3,7929
 coffee,14,Brunello di Montalcino,4.3,7929
@@ -1416,11 +1416,11 @@ cream,25,Cava Celler Batlle,4.3,1575
 toast,30,Cava Celler Batlle,4.3,1575
 green apple,15,Cava Celler Batlle,4.3,1575
 citrus,26,Cava Celler Batlle,4.3,1575
-citrus,80,Ben Ry√© Passito di Pantelleria,4.5,21351
-cream,35,Ben Ry√© Passito di Pantelleria,4.5,21351
-coffee,12,Ch√¢teauneuf-du-Pape,4.2,13917
-coffee,12,Ch√¢teauneuf-du-Pape,4.2,13917
-cream,11,Ch√¢teauneuf-du-Pape,4.2,13917
+citrus,80,Ben RyÈ Passito di Pantelleria,4.5,21351
+cream,35,Ben RyÈ Passito di Pantelleria,4.5,21351
+coffee,12,Ch‚teauneuf-du-Pape,4.2,13917
+coffee,12,Ch‚teauneuf-du-Pape,4.2,13917
+cream,11,Ch‚teauneuf-du-Pape,4.2,13917
 citrus,28,Le Petit Cheval Bordeaux Blanc,4.4,782
 cream,15,Le Petit Cheval Bordeaux Blanc,4.4,782
 citrus,45,Buisson Renard,4.3,2119

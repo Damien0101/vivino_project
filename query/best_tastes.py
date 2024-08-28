@@ -25,11 +25,7 @@ WHERE
 ''')
 
 row = cur.fetchall()
-<<<<<<< HEAD
-=======
-print(row)
 
->>>>>>> 6f6019b65e2c52151f9e0369e593af49686f94e6
 with open('data/best_taste.csv', 'w', newline='') as file:
     csvfile = csv.writer(file)
     csvfile.writerow(['taste', 'keyword_count', 'wine', 'ratingAVG', 'ratingCOUNT'])

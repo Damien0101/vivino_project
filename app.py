@@ -24,8 +24,12 @@ fig2.add_trace(go.Scatter(x=countries['country'], y=countries['median_price'], m
 
 
 
-df3 = pd.read_csv('data/best_taste.csv', encoding='latin1')
-df3 = df3.drop_duplicates()
+tastiest_wines = pd.read_csv('data/best_taste.csv', encoding='latin1')
+tastiest_wines.drop(columns=['taste','keyword_count'], inplace=True)
+tastiest_wines.set_index('wine', inplace=True)
+tastiest_wines.sort_values('ratingAVG', ascending=False, inplace=True)
+
+
 
 
 # Streamlit app layout
@@ -36,6 +40,8 @@ if st.button("Show plot", key='show_plot'):
     st.plotly_chart(fig)
 st.subheader("Median price and rating per country")
 if st.button("Show plot", key='show_plot2'):
-    st.subheader("Median price and rating per country")
     st.plotly_chart(fig2)
     st.write("Based on this plot, we can tell that for our little budget we should go for Moldavia since it's cheap and as a rating average above the median.")
+st.subheader("Wines with the best taste")
+if st.button("Show table"):
+    st.table(tastiest_wines)

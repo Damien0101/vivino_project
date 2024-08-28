@@ -28,14 +28,12 @@ HAVING
     COUNT(DISTINCT(taste)) = 5;             
 ''')
 
-row = cur.fetchall()
+# row = cur.fetchall()
 
-<<<<<<< HEAD
-=======
 row : list[any] = cur.fetchall()
 
 
->>>>>>> b8962a6cfb5eb30c4f17b6143026023f82a64efb
+
 with open('data/best_taste.csv', 'w', newline='') as file:
     csvfile = csv.writer(file)
     csvfile.writerow(['taste', 'keyword_count', 'wine', 'ratingAVG', 'ratingCOUNT'])

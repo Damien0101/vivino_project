@@ -37,6 +37,18 @@ df5 = pd.read_csv('data/priceAVG_per_country.csv', encoding='latin1')
 df5.sort_values('rantingAVG', ascending=False, inplace=True)
 fig4 = px.bar(df5, x='country', y='rantingAVG', color='priceAVG', title='Average price of wine per country')
 
+df6 = pd.read_csv('data/vintage_table.csv', encoding='latin1')
+most_expensive_wine = df6.sort_values('price_euros', ascending=False).head(3).reset_index()
+
+most_loved_wine = df6.sort_values(['ratings_average', 'ratings_count'], ascending=False).head(3).reset_index()
+
+df6 = pd.read_csv('data/vintage_table.csv', encoding='latin1')
+best_year = df6.groupby('year', as_index=False)[['price_euros', 'ratings_average', 'ratings_count']].mean()
+best_year.sort_values('ratings_average', ascending=False, inplace=True)
+fig = px.bar(best_year, x=best_year['year'], y=best_year['ratings_average'], color=best_year['ratings_count'], title='Best year for wine')
+
+best_wine_from1998 = df6.loc[df6['year'] == '1998'].sort_values(['ratings_average', 'ratings_count'], ascending=False).head(3).reset_index()
+best_wine_from1998
 
 # Streamlit app layout
 st.title("🍷 Vivino Project 🍷")

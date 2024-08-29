@@ -5,7 +5,7 @@ conn : sqlite3.Connection = sqlite3.connect('data/vivino.db')
 cursor : sqlite3.Cursor = conn.cursor()
 
 cursor.execute("""
-    SELECT wines.name, vintages.price_euros, countries.name, wines.ratings_average, countries.wines_count
+    SELECT wines.name, countries.name, wines.ratings_average, countries.wines_count
     FROM wines
     JOIN vintages ON wines.id = vintages.wine_id
     JOIN regions ON wines.region_id = regions.id

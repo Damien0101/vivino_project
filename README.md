@@ -113,7 +113,7 @@ VINIVO_PROJECT
    ```
       
     #### Or visit :
-    [vivino deployed app](https://vinivoproject-v7jiussdmfd2tavvkxcycp.streamlit.app/) 
+    [vivino deployed app](https://vivinoproject-iloveyouantoine.streamlit.app/) 
 
 ## 🎉 Have Fun!
 

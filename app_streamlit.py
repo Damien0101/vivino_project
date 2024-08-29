@@ -22,8 +22,20 @@ def set_background(image_path):
         }}
                 /* General text color */
         .stMarkdown, .stMarkdown h1, .stMarkdown h2, .stMarkdown h3, .stMarkdown p, .stMarkdown li {{
-            color: #FFFFFFF; /* Black text */
+            color: #FFFFFFF; /* White text */
       
+        }}
+        table {{
+            border-collapse: collapse;
+            width: 100%;
+        }}
+        table, th, td {{
+        border: 2px solid white;
+        padding: 8px;
+        color : white; /* White text */
+        }}
+        th, td {{
+        text-align: left;
         }}
         </style>
         """,
@@ -43,6 +55,7 @@ st.sidebar.subheader('Choose a section to explore')
 
 # List of pages available for navigation in the sidebar
 topic_names = [
+    'Home page',
     'Top 10 Wines 🔟',
     'Best affordable country 💸',
     'Best taste 👅',
@@ -59,6 +72,63 @@ topic_names = [
 
 # Sidebar radio button for page selection
 page = st.sidebar.radio('', topic_names)
+
+
+# Home page
+if page == 'Home page':
+    import streamlit as st
+
+# Set the title of the Streamlit app
+st.title("Welcome to the Vivino Project")
+
+# Add a brief description of the project
+st.write("""
+    The Vivino Project is a collaborative initiative designed to harness the expertise of data analysts and data engineers.
+    Our dedicated team, consisting of two skilled data analysts and two expert data engineers, has come together with a 
+    unified mission: to unlock valuable insights from complex datasets and make data-driven decision-making accessible and actionable.
+""")
+
+# Section: What We Do
+st.header("What We Do")
+st.write("""
+    Our project focuses on querying data from extensive databases and transforming it into actionable information.
+    We utilize advanced techniques to analyze this data, producing a variety of visualizations and reports, including plots and tables.
+    These tools are crafted to facilitate your understanding and interpretation of the data, enabling you to make well-informed decisions with confidence.
+""")
+
+# Section: Our Approach
+st.header("Our Approach")
+st.write("""
+    **1. Data Querying**: We extract relevant information from diverse and extensive databases, ensuring accuracy and relevance.
+
+    **2. Data Analysis**: Our team applies rigorous analytical methods to uncover trends, patterns, and insights within the data.
+
+    **3. Visualization**: We create intuitive plots and tables to present data in a clear, comprehensible format, making complex information accessible at a glance.
+
+    **4. Collaboration**: The synergy between data analysts and data engineers ensures that our approach is both technically sound and tailored to meet your specific needs.
+""")
+
+# Section: Explore and Discover
+st.header("Explore and Discover")
+st.write("""
+    By combining our strengths, the Vivino Project delivers a robust platform for data analysis that empowers users to leverage data effectively.
+    Whether you're seeking to understand market trends, evaluate performance metrics, or uncover new opportunities, our tools and insights are designed to support your goals.
+    Explore the Vivino Project and discover how we can help you turn data into actionable insights.
+""")
+
+# Footer with GitHub profile links
+st.write("---")
+st.write("### Meet the Team")
+st.write("""
+    - [Antoine Servais](https://github.com/antoineservais1307) - Data Analyst
+    - [Volodymyr Vysostkyi](https://github.com/vvvladimir65) - Data Analyst
+    - [Damien Compere](https://github.com/servietsky0) - Data Engineer
+    - [Alper Carpan](https://github.com/carpanalper) - Data Engineer
+""")
+
+# Optionally, add any additional widgets or content you wish to include on your homepage
+
+
 
 # Page 1: Display the Top 10 Wines
 if page == 'Top 10 Wines 🔟':

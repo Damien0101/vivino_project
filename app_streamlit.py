@@ -56,18 +56,18 @@ st.sidebar.subheader('Choose a section to explore')
 # List of pages available for navigation in the sidebar
 topic_names = [
     'Home page',
-    'Top 10 Wines 🔟',
-    'Best affordable country 💸',
-    'Best taste 👅',
-    'Most used Grapes 🍇',
-    'Country leaderboard for Vintages Wines 🏆',
-    'Country leaderboard for Wines 🏆',
-    'Top 5 recommendations for Cabernet Sauvignon 🎊',
-    'Most expensive wine 🤑',
-    'Best year for wine 🍾',
-    'Best wine from 1998 🎉',
-    'Global awards for wine by country 🏆',
-    'Link between ratingAVG and url length 📏'
+    '🔟 Top 10 Wines',
+    '💸 Best affordable country',
+    '👅 Best taste',
+    '🍇 Most used Grapes',
+    '🏆 Country leaderboard for Vintages Wines',
+    '🏆 Country leaderboard for Wines',
+    '🎊 Top 5 recommendations for Cabernet Sauvignon',
+    '🤑 Most expensive wine',
+    '🍾 Best year for wine',
+    '🎉 Best wine from 1998 ',
+    '🏆Global awards for wine by country',
+    '📏 Link between ratingAVG and url length'
 ]
 
 # Sidebar radio button for page selection
@@ -76,62 +76,54 @@ page = st.sidebar.radio('', topic_names)
 
 # Home page
 if page == 'Home page':
-    import streamlit as st
 
-# Set the title of the Streamlit app
-st.title("Welcome to the Vivino Project")
+    st.title("Welcome to the Vivino Project")
 
-# Add a brief description of the project
-st.write("""
-    The Vivino Project is a collaborative initiative designed to harness the expertise of data analysts and data engineers.
-    Our dedicated team, consisting of two skilled data analysts and two expert data engineers, has come together with a 
-    unified mission: to unlock valuable insights from complex datasets and make data-driven decision-making accessible and actionable.
-""")
+    st.write("""
+        The Vivino Project is a collaborative initiative designed to harness the expertise of data analysts and data engineers.
+        Our dedicated team, consisting of two skilled data analysts and two expert data engineers, has come together with a 
+        unified mission: to unlock valuable insights from complex datasets and make data-driven decision-making accessible and actionable.
+    """)
 
-# Section: What We Do
-st.header("What We Do")
-st.write("""
-    Our project focuses on querying data from extensive databases and transforming it into actionable information.
-    We utilize advanced techniques to analyze this data, producing a variety of visualizations and reports, including plots and tables.
-    These tools are crafted to facilitate your understanding and interpretation of the data, enabling you to make well-informed decisions with confidence.
-""")
+    st.header("What We Do")
+    st.write("""
+        Our project focuses on querying data from extensive databases and transforming it into actionable information.
+        We utilize advanced techniques to analyze this data, producing a variety of visualizations and reports, including plots and tables.
+        These tools are crafted to facilitate your understanding and interpretation of the data, enabling you to make well-informed decisions with confidence.
+    """)
 
-# Section: Our Approach
-st.header("Our Approach")
-st.write("""
-    **1. Data Querying**: We extract relevant information from diverse and extensive databases, ensuring accuracy and relevance.
+    st.header("Our Approach")
+    st.write("""
+        **1. Data Querying**: We extract relevant information from diverse and extensive databases, ensuring accuracy and relevance.
 
-    **2. Data Analysis**: Our team applies rigorous analytical methods to uncover trends, patterns, and insights within the data.
+        **2. Data Analysis**: Our team applies rigorous analytical methods to uncover trends, patterns, and insights within the data.
 
-    **3. Visualization**: We create intuitive plots and tables to present data in a clear, comprehensible format, making complex information accessible at a glance.
+        **3. Visualization**: We create intuitive plots and tables to present data in a clear, comprehensible format, making complex information accessible at a glance.
 
-    **4. Collaboration**: The synergy between data analysts and data engineers ensures that our approach is both technically sound and tailored to meet your specific needs.
-""")
+        **4. Collaboration**: The synergy between data analysts and data engineers ensures that our approach is both technically sound and tailored to meet your specific needs.
+    """)
 
-# Section: Explore and Discover
-st.header("Explore and Discover")
-st.write("""
-    By combining our strengths, the Vivino Project delivers a robust platform for data analysis that empowers users to leverage data effectively.
-    Whether you're seeking to understand market trends, evaluate performance metrics, or uncover new opportunities, our tools and insights are designed to support your goals.
-    Explore the Vivino Project and discover how we can help you turn data into actionable insights.
-""")
+    st.header("Explore and Discover")
+    st.write("""
+        By combining our strengths, the Vivino Project delivers a robust platform for data analysis that empowers users to leverage data effectively.
+        Whether you're seeking to understand market trends, evaluate performance metrics, or uncover new opportunities, our tools and insights are designed to support your goals.
+        Explore the Vivino Project and discover how we can help you turn data into actionable insights.
+    """)
 
-# Footer with GitHub profile links
-st.write("---")
-st.write("### Meet the Team")
-st.write("""
-    - [Antoine Servais](https://github.com/antoineservais1307) - Data Analyst
-    - [Volodymyr Vysostkyi](https://github.com/vvvladimir65) - Data Analyst
-    - [Damien Compere](https://github.com/servietsky0) - Data Engineer
-    - [Alper Carpan](https://github.com/carpanalper) - Data Engineer
-""")
+    st.write("---")
+    st.write("### Meet the Team")
+    st.write("""
+        - [Antoine Servais](https://github.com/antoineservais1307) - Data Analyst
+        - [Volodymyr Vysostkyi](https://github.com/vvvladimir65) - Data Analyst
+        - [Damien Compere](https://github.com/servietsky0) - Data Engineer
+        - [Alper Carpan](https://github.com/carpanalper) - Data Engineer
+    """)
 
-# Optionally, add any additional widgets or content you wish to include on your homepage
 
 
 
 # Page 1: Display the Top 10 Wines
-if page == 'Top 10 Wines 🔟':
+if page == '🔟 Top 10 Wines':
     top10 = pd.read_csv('data/top_ten.csv', encoding='latin1')
     top10.sort_values('ratingAVG', ascending=True, inplace=True)
     top10 = px.bar(top10, x='name', y='price', color='ratingAVG', color_continuous_scale='sunsetdark')
@@ -139,7 +131,7 @@ if page == 'Top 10 Wines 🔟':
     st.plotly_chart(top10)
 
 # Page 2: Best affordable country based on wine ratings and price
-if page == 'Best affordable country 💸':
+if page == '💸 Best affordable country':
     df1 = pd.read_csv('data/best_countries.csv', encoding='latin1')
     countries = df1.groupby('country', as_index=False)[['price', 'rating', 'wine count']].median()
     countries["median_price"] = countries["price"].median()
@@ -151,7 +143,7 @@ if page == 'Best affordable country 💸':
     st.plotly_chart(best_country)
 
 # Page 3: Display the best tasting wines
-if page == 'Best taste 👅':
+if page == '👅 Best taste':
     tastiest_wines = pd.read_csv('data/best_taste.csv', encoding='latin1')
     tastiest_wines.drop(columns=['taste', 'keyword_count'], inplace=True)
     tastiest_wines.set_index('wine', inplace=True)
@@ -161,7 +153,7 @@ if page == 'Best taste 👅':
     st.table(tastiest_wines)
 
 # Page 4: Display the most used grapes and their top wines
-if page == 'Most used Grapes 🍇':
+if page == '🍇 Most used Grapes':
     wines = pd.read_csv('data/wine_table.csv', encoding='latin1')
     wines = wines.drop(columns=['id','is_natural','region_id','winery_id','acidity','fizziness','intensity','sweetness','tannin','user_structure_count'])
     cabern_sauv_top5 = wines[wines['name'].str.contains('Cabernet Sauvignon')].sort_values(['ratings_average','ratings_count'], ascending=False).head(5)
@@ -177,7 +169,7 @@ if page == 'Most used Grapes 🍇':
     st.table(pinot_top5)
 
 # Page 5: Country leaderboard for Vintages Wines
-if page == 'Country leaderboard for Vintages Wines 🏆':
+if page == '🏆 Country leaderboard for Vintages Wines':
     df5 = pd.read_csv('data/priceAVG_per_country.csv', encoding='latin1')
     df5.sort_values('rantingAVG', ascending=False, inplace=True)
     fig4 = px.bar(df5, x='country', y='rantingAVG', title='Average rating of vintage wine per country', color='rantingAVG', color_continuous_scale='sunsetdark')
@@ -186,7 +178,7 @@ if page == 'Country leaderboard for Vintages Wines 🏆':
     center_text('Here we can see that the best Vintage Wines are from Australia 🦘', header_type="subheader")
 
 # Page 6: Country leaderboard for Wines
-if page == 'Country leaderboard for Wines 🏆':
+if page == '🏆 Country leaderboard for Wines':
     wine_price_avg_per_country = pd.read_csv('data/wine_price_per_country.csv', encoding='latin1')
     wine_price_avg_per_country.sort_values('rantingAVG', ascending=False, inplace=True)
     fig5 = px.bar(wine_price_avg_per_country, x='country', y='rantingAVG', color='rantingAVG', color_continuous_scale='sunsetdark', title='Average price of wine per country')
@@ -195,7 +187,7 @@ if page == 'Country leaderboard for Wines 🏆':
     st.write('Here we can see that the best wines are from Hungary 🍻')
 
 # Page 7: Top 5 recommendations for Cabernet Sauvignon
-if page == 'Top 5 recommendations for Cabernet Sauvignon 🎊':
+if page == ' 🎊 Top 5 recommendations for Cabernet Sauvignon':
     wines = pd.read_csv('data/wine_table.csv', encoding='latin1')
     wines = wines.drop(columns=['id','is_natural','region_id','winery_id','acidity','fizziness','intensity','sweetness','tannin','user_structure_count'])
     cabern_sauv_top5 = wines[wines['name'].str.contains('Cabernet Sauvignon')].sort_values(['ratings_average','ratings_count'], ascending=False).head(5)
@@ -204,7 +196,7 @@ if page == 'Top 5 recommendations for Cabernet Sauvignon 🎊':
     st.write("Since it's the most used grape in the world, it's the same as previously")
 
 # Page 8: Most expensive wine
-if page == 'Most expensive wine 🤑':
+if page == '🤑 Most expensive wine':
     df6 = pd.read_csv('data/vintage_table.csv', encoding='latin1')
     df6 = df6.drop(columns=['id','wine_id','price_discounted_from','price_discount_percentage','bottle_volume_ml'])
     most_expensive_wine = df6.sort_values('price_euros', ascending=False).head(3).reset_index()
@@ -212,7 +204,7 @@ if page == 'Most expensive wine 🤑':
     st.table(most_expensive_wine)
 
 # Page 9: Best year for wine
-if page == 'Best year for wine 🍾':
+if page == '🍾 Best year for wine':
     df6 = pd.read_csv('data/vintage_table.csv', encoding='latin1')
     best_year = df6.groupby('year', as_index=False)[['price_euros', 'ratings_average', 'ratings_count']].mean()
     fig = px.bar(best_year, x=best_year['year'], y=best_year['ratings_average'], color=best_year['ratings_count'], color_continuous_scale='sunsetdark', title='Best year for wine')
@@ -220,7 +212,7 @@ if page == 'Best year for wine 🍾':
     center_text('Based on this plot, we can tell that the best year for wine is 1979 since it has the best rating average for years', header_type="subheader")
 
 # Page 10: Best wine from 1998
-if page == 'Best wine from 1998 🎉':
+if page == '🎉 Best wine from 1998':
     df6 = pd.read_csv('data/vintage_table.csv', encoding='latin1')
     df6 = df6.drop(columns=['id','wine_id','price_discounted_from','price_discount_percentage','bottle_volume_ml'])
     best_wine_from1998 = df6.loc[df6['year'] == '1998'].sort_values(['ratings_average', 'ratings_count'], ascending=False).head(3).reset_index()
@@ -228,7 +220,7 @@ if page == 'Best wine from 1998 🎉':
     st.table(best_wine_from1998)
 
 # Page 11: Global awards for wine by country
-if page == 'Global awards for wine by country 🏆':
+if page == '🏆 Global awards for wine by country':
     df = pd.read_csv('data/global_awards_wine.csv')
     total_count = df['count'].sum()
     df['count'] = (df['count'] * 100) / total_count
@@ -238,7 +230,7 @@ if page == 'Global awards for wine by country 🏆':
 
 
 # Page 12: Link between ratingAVG and URL length
-if page == 'Link between ratingAVG and url length 📏':
+if page == '📏 Link between ratingAVG and url length':
     df7 = pd.read_csv('data/wine_table.csv', encoding='latin1')
     df7['url'] = df7['url'].apply(len)
     df7 = df7.groupby('url', as_index=False)['ratings_average'].mean()

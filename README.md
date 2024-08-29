@@ -112,12 +112,9 @@ VINIVO_PROJECT
    streamlit run app.py
    ```
       
-    #### OR
+    #### Or visit :
+    [vivino deployed app](https://vinivoproject-v7jiussdmfd2tavvkxcycp.streamlit.app/) 
 
-   ```sh              
-   streamlit run app.py 
-   ```
----
 ## 🎉 Have Fun!
 
 #### *I trust you'll find joy in using my app, just as much joy as I had in developing it! Every graph is a step towards a more comprehensible view of the wine market.*  🚀

@@ -65,8 +65,8 @@ topic_names = [
     '🎊 Top 5 recommendations for Cabernet Sauvignon',
     '🤑 Most expensive wine',
     '🍾 Best year for wine',
-    '🎉 Best wine from 1998 ',
-    '🏆Global awards for wine by country',
+    '🎉 Best wine from 1998',
+    '🏆 Global awards for wine by country',
     '📏 Link between ratingAVG and url length'
 ]
 

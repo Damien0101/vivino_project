@@ -3,7 +3,7 @@
 ## 📜 Project Description
 #### The Vivino project is designed to answer key questions about the wine market using data from Vivino. Utilizing SQL for querying, Plotly for interactive visualizations, and Streamlit for a web-based interface, this project provides valuable insights into wine trends, prices, and market dynamics. It aims to help Vivino users and industry professionals better understand the wine market and identify growth opportunities thanks to the data.. ####
 
-[![N|Solid](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse3.mm.bing.net%2Fth%3Fid%3DOIP._myDh4nle6wYFGPGxAfzcgHaDn%26pid%3DApi&f=1&ipt=95eb30229bd8d514c3605abbe01b169acfd9521a071089801c66b7d26caf85e0&ipo=images "easter egg")](loveUantoine.png)
+[![N|Solid](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse3.mm.bing.net%2Fth%3Fid%3DOIP._myDh4nle6wYFGPGxAfzcgHaDn%26pid%3DApi&f=1&ipt=95eb30229bd8d514c3605abbe01b169acfd9521a071089801c66b7d26caf85e0&ipo=images "vivino")](https://vivinoproject-iloveyouantoine.streamlit.app/)
 
 ***click on the image to analize the graphs...***
 
